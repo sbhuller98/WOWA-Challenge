@@ -16,6 +16,8 @@ You will need to create and design a full-stack application that shows Canada mo
 
 * You should have a mortgage calculator with options to change term length and type based on the data available. The results shown in the rates table should reflect the current selected term length and type. The results in the column of Monthly Payment should reflect the parameters entered.
 
+* You are *highly encouraged* to use TailwindCSS classes
+
 * You do not have to implement the "I am looking to get rates for..." part of the table
 
 * You do not have to implement "Get This Rate"
@@ -96,6 +98,8 @@ TailwindCSS: https://tailwindcss.com/
 Material-UI: https://material-ui.com/
 
 TypeScript: https://www.typescriptlang.org/
+
+styled-jsx: https://github.com/vercel/styled-jsx
 
 Django: https://www.djangoproject.com/
 
