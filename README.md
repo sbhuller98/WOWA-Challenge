@@ -81,7 +81,7 @@ Payment frequency can be monthly or bi-weekly. For this assignment, you can assu
 
 Home Price = Down Payment + Mortgage Amount
 
-Monthly Payment Calculation:
+**Monthly Payment Calculation**
 ![](docs/mortgage_calculation.PNG)
 Available at https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx and https://www.thebalance.com/calculate-mortgage-315668
 
