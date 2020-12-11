@@ -1,0 +1,90 @@
+{
+  "extends": [
+    "airbnb",
+    "prettier",
+    "prettier/babel",
+    "prettier/react",
+    "prettier/standard"
+  ],
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "no-unused-vars": "warn",
+    "react/forbid-prop-types": "warn",
+    "linebreak-style": "off",
+    "anchor-is-valid": "off",
+    "consistent-return": "off",
+    "array-callback-return": "off",
+    "react/state-in-constructor": "off",
+    "global-require": "off",
+    "jsx-a11y/label-has-for": 0,
+    "jsx-a11y/anchor-is-valid": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/jsx-props-no-spreading": [
+      1,
+      {
+        "exceptions": ["Link"]
+      }
+    ]
+  },
+  "env": {
+    "browser": true,
+    "prototypejs": true,
+    "es6": true,
+    "jest": false,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    },
+    "project": "./frontend/jsconfig.json"
+  },
+  "overrides": [
+    {
+      "files": ["**/*.ts", "**/*.tsx"],
+      "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+      },
+      "extends": [
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "airbnb-typescript",
+        "prettier",
+        "prettier/@typescript-eslint",
+        "prettier/babel",
+        "prettier/react"
+      ],
+      "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+      },
+      "parser": "@typescript-eslint/parser",
+      "parserOptions": {
+        "ecmaFeatures": {
+          "jsx": true
+        },
+        "ecmaVersion": 2020,
+        "sourceType": "module",
+        "project": "./frontend/tsconfig.json"
+      },
+      "plugins": ["@typescript-eslint"],
+      "rules": {
+        "linebreak-style": "off",
+        "react/react-in-jsx-scope": 0,
+        "jsx-a11y/anchor-is-valid": 0,
+        "react/jsx-props-no-spreading": [
+          1,
+          {
+            "exceptions": ["Link"]
+          }
+        ]
+      }
+    }
+  ]
+}
