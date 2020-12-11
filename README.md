@@ -42,14 +42,14 @@ Your data model for mortgage rates should be as follows (in TypeScript notation)
 
 ```
 MortgageRate:
-  source: string
-  year: number
-  created: Date (Not DateTime)
-  updated: Date (Not DateTime | Optional)
+  source: string (the lender)
+  year: number (length of mortgage term in years)
+  created: Date (not DateTime)
+  updated: Date (not DateTime | Optional)
   down_payment_level: number (will not be used)
   first_mortgage: boolean (will not be used)
   long_amortization: boolean (will not be used)
-  rate_type: string
+  rate_type: string (fixed or variable)
   rate: number
   posted: boolean (will not be used)
   refinance_rate: number (will not be used)
@@ -63,9 +63,27 @@ I have provided some data at [data/rates.json](data/rates.json). It follows the 
 
 As for the logos, feel free to take them from our website (right-click and `Save image`). 
 
+## Information About Mortgages
 
+Mortgages come in two types: Fixed-rate and Variable-rate. Short form: Fixed and Variable. 
 
+Mortgage terms represent the number of years a single mortgage contract is signed for and is usually 5 years, but can range between 1 to 10 years. 
 
+Each year and type have their own set of rates. 
+
+Mortgage amortization represents the number of years it will take to pay off the mortgage if you make just the regular payments. Amortizations in Canada can range from 20 to 30 years, with 25 years being the most common.
+
+Down payment is the amount that you put up for a home. You can use the default given.
+
+Payment frequency can be monthly or bi-weekly. For this assignment, you can assume monthly.
+
+**Math Reference**
+
+Home Price = Down Payment + Mortgage Amount
+
+Monthly Payment Calculation:
+![](docs/mortgage_calculation.PNG)
+Available at https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx and https://www.thebalance.com/calculate-mortgage-315668
 
 ## Helpful Links
 
