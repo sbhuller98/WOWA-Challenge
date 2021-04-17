@@ -24,7 +24,7 @@ You will need to create and design a full-stack application that shows Canada mo
 
 - Your design should be responsive, but the implementation is up to you. You can show different components for different breakpoints, but the overall design should stay consistent across screen widths.
 
-## Code
+## Frontend
 
 I have provided a base Next.JS setup with the following features:
 
@@ -50,6 +50,10 @@ MortgageRate:
   posted: boolean (will not be used)
   refinance_rate: number (will not be used)
 ```
+
+## Backend
+
+You should use a backend to deliver the mortgage rate data. You are free to choose your own preferred implementation of backend framework (e.g. Flask, Django, Express), API schema (REST, GraphQL), and database (e.g. PostgreSQL, MySQL, MongoDB, SQLite)
 
 ## Data
 
