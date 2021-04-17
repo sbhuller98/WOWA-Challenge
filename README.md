@@ -24,10 +24,6 @@ You will need to create and design a full-stack application that shows Canada mo
 
 - Your design should be responsive, but the implementation is up to you. You can show different components for different breakpoints, but the overall design should stay consistent across screen widths.
 
-- Your data should be stored in a PostgreSQL database
-
-- Your rates data should be retrieved using a GET request to your Django application. You must use a django-rest-framework request handler, but you can use a @api_view, a View, or a ViewSet.
-
 ## Code
 
 I have provided a base Next.JS setup with the following features:
@@ -98,9 +94,3 @@ Material-UI: https://material-ui.com/
 TypeScript: https://www.typescriptlang.org/
 
 styled-jsx: https://github.com/vercel/styled-jsx
-
-Django: https://www.djangoproject.com/
-
-django-rest-framework: https://www.django-rest-framework.org/
-
-PostgreSQL: https://www.postgresql.org/
