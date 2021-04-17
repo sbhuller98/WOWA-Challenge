@@ -36,7 +36,7 @@ I have provided a base Next.JS setup with the following features:
 
 You should extend it, putting your pages in `/pages` and other components in `/src`.
 
-Your data model for mortgage rates should be as follows (in TypeScript notation):
+The data model for mortgage rates is as follows (in TypeScript notation):
 
 ```
 MortgageRate:
@@ -50,8 +50,6 @@ MortgageRate:
   posted: boolean (will not be used)
   refinance_rate: number (will not be used)
 ```
-
-It is up to you to implement the Django data model appropriately.
 
 ## Data
 
