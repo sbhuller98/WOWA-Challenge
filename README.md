@@ -24,6 +24,12 @@ You will need to create and design a full-stack application that shows Canada mo
 
 - Your design should be responsive, but the implementation is up to you. You can show different components for different breakpoints, but the overall design should stay consistent across screen widths.
 
+- In any one view, you should show only the lowest rate for a certain lender with the chosen `year` and `rate_type`. This means you will have to filter and select through the rates.
+
+- The rate table should be **sorted** from lowest to highest interest rate.
+
+- You should include the logos of each lender
+
 ## Frontend
 
 I have provided a base Next.JS setup with the following features:
