@@ -1,6 +1,8 @@
 import Head from 'next/head';
-import SampleInput from 'src/SampleInput';
-import SampleSelectField from 'src/SampleSelectField';
+import HomeCalculator from 'src/HomeCalculator';
+import SampleInput from 'src/InputFields/SampleInput';
+import SampleSelectField from 'src/InputFields/SampleSelectField';
+import AsyncDataComponent from '../src/AsyncDataComponent';
 
 const Home = (): JSX.Element => {
   return (
@@ -8,7 +10,7 @@ const Home = (): JSX.Element => {
       <Head>
         <title>WOWA Challenge</title>
       </Head>
-      <main className="w-full flex flex-col items-center justify-center h-screen">
+      <main className="w-full flex flex-col items-center justify-center pt-20">
         <h1 className="text-4xl font-semibold mb-4 text-center">
           Welcome to the WOWA Challenge
         </h1>{' '}
@@ -29,6 +31,8 @@ const Home = (): JSX.Element => {
             <SampleSelectField />
           </div>
         </div>
+        <HomeCalculator />
+        <AsyncDataComponent />
       </main>
     </>
   );

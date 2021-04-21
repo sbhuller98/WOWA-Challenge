@@ -20,9 +20,9 @@
   "exclude": ["node_modules"],
   "include": [
     "next-env.d.ts",
-    "frontend/src/**/*.ts",
-    "frontend/src/**/*.tsx",
-    "frontend/pages/**/*.ts",
-    "frontend/pages/**/*.tsx"
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "pages/**/*.ts",
+    "pages/**/*.tsx"
   ]
 }
