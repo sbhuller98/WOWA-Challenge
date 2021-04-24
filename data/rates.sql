@@ -10,3 +10,9 @@ CREATE TABLE MortRates(
     rate Real
 );
 
+LOAD DATA INFILE 'path to rates.csv file' 
+INTO TABLE discounts 
+FIELDS TERMINATED BY ';' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
