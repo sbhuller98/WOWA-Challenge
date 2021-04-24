@@ -1,981 +1,981 @@
-id,source,year,down_payment_level,first_mortgage,long_amortization,rate_type,rate,posted,refinance_rate,type
-905,TD,1,1,1,,fixed,2.79,1,,fixed
-978,TD,10,2,1,,fixed,5.6,1,,fixed
-186,CIBC,1,1,1,,fixed,2.79,1,,fixed
-260,BMO,2,3,1,,fixed,3.16,,,fixed
-25,TD,4,2,1,,fixed,4.05,,,fixed
-261,BMO,2,4,1,,fixed,3.1,,,fixed
-262,BMO,2,5,1,,fixed,3.05,,,fixed
-26,TD,4,3,1,,fixed,3.96,,,fixed
-196,CIBC,2,3,1,,fixed,3.11,,,fixed
-928,CIBC,5,1,1,,variable,2.45,1,,variable
-193,CIBC,2,1,1,,fixed,2.89,1,,fixed
-222,CIBC,5,1,1,,variable,1.54,,,variable
-731,motusbank,5,2,1,,fixed,1.89,,,fixed
-200,CIBC,3,1,1,,fixed,3.49,1,,fixed
-134,RBC,10,3,1,,fixed,6.16,,,fixed
-135,RBC,10,4,1,,fixed,6.11,,,fixed
-136,RBC,10,5,1,,fixed,6.06,,,fixed
-655,Coast Capital,1,2,1,,fixed,3.09,,,fixed
-663,Coast Capital,2,1,1,,fixed,3.12,1,,fixed
-666,Coast Capital,2,2,1,,fixed,3.12,1,,fixed
-209,CIBC,4,1,1,,fixed,4.24,1,,fixed
-665,Coast Capital,2,2,1,,fixed,3.12,,,fixed
-206,CIBC,3,1,1,,variable,2.45,,,variable
-207,CIBC,3,2,1,,variable,2.45,,,variable
-216,CIBC,5,1,1,,fixed,4.79,1,,fixed
-1011,CMLS,6,2,1,,fixed,2.99,,,fixed
-669,Coast Capital,3,1,1,,fixed,3.59,1,,fixed
-926,CIBC,3,1,1,,variable,2.45,1,,variable
-962,BMO,6,1,1,,fixed,5.24,,,fixed
-296,BMO,5,1,1,1,fixed,4.79,1,,fixed
-979,CIBC,3,2,1,,variable,2.45,1,,variable
-955,BMO,3,1,1,,fixed,2.24,,,fixed
-488,Equitable,1,1,1,,fixed,2.74,1,,fixed
-253,BMO,2,1,1,,fixed,2.94,1,,fixed
-127,RBC,10,1,1,,fixed,5.8,1,,fixed
-963,BMO,6,1,1,1,fixed,5.24,,,fixed
-1164,Manulife,2,2,1,,fixed,2.69,,,fixed
-1165,Manulife,3,2,1,,fixed,2.49,,,fixed
-1166,Manulife,4,2,1,,fixed,2.49,,,fixed
-1167,Manulife,7,2,1,,fixed,4.54,,,fixed
-1168,Manulife,10,2,1,,fixed,4.64,,,fixed
-965,BMO,7,1,1,1,fixed,5.4,,,fixed
-68,RBC,2,3,1,,fixed,2.31,,,fixed
-1163,Manulife,1,2,1,,fixed,2.99,,,fixed
-138,RBC,25,1,1,,fixed,8.75,1,,fixed
-17,TD,2,4,1,,fixed,3.1,,,fixed
-18,TD,2,5,1,,fixed,3.05,,,fixed
-415,National,5,5,1,,fixed,2.2,,,fixed
-123,RBC,7,3,1,,fixed,3.31,,,fixed
-124,RBC,7,4,1,,fixed,3.25,,,fixed
-255,BMO,2,1,1,1,fixed,2.94,1,,fixed
-492,Equitable,2,1,1,,fixed,2.74,1,,fixed
-264,BMO,3,1,1,,fixed,3.49,1,,fixed
-266,BMO,3,1,1,1,fixed,3.49,1,,fixed
-52,RBC,1,1,1,1,fixed,2.69,1,,fixed
-63,RBC,2,1,1,1,fixed,2.94,1,,fixed
-283,BMO,4,1,1,,fixed,4.09,1,,fixed
-967,BMO,10,1,1,1,fixed,5.8,,,fixed
-1254,Manulife,2,1,1,,fixed,2.69,,,fixed
-1256,Manulife,4,1,1,,fixed,2.49,,,fixed
-496,Equitable,3,1,1,,fixed,2.99,1,,fixed
-1255,Manulife,3,1,1,,fixed,2.49,,,fixed
-534,Scotiabank,3,1,1,,fixed,2.24,,2.24,fixed
-19,TD,3,1,1,,fixed,2.14,,2.14,fixed
-1257,Manulife,7,1,1,,fixed,4.54,,,fixed
-1258,Manulife,10,1,1,,fixed,4.64,,,fixed
-500,Equitable,4,1,1,,fixed,4.09,1,,fixed
-294,BMO,5,1,1,,fixed,3.99,1,,fixed
-334,BMO,10,1,1,,fixed,4.49,,,fixed
-339,BMO,10,2,1,,fixed,4.49,1,,fixed
-958,BMO,4,1,1,1,fixed,4.09,,,fixed
-960,BMO,5,1,1,1,fixed,4.79,,,fixed
-970,BMO,5,1,1,1,variable,2.45,,,variable
-49,RBC,1,1,1,,fixed,2.44,,,fixed
-122,RBC,7,2,1,1,fixed,5.4,1,,fixed
-1010,CMLS,6,1,1,,fixed,2.99,,,fixed
-489,Equitable,1,2,1,,fixed,2.99,,,fixed
-1209,ICICI,1,2,1,,fixed,3.19,1,,fixed
-198,CIBC,2,5,1,,fixed,3,,,fixed
-419,National,5,4,1,,variable,2.61,,,variable
-125,RBC,7,5,1,,fixed,3.2,,,fixed
-69,RBC,2,4,1,,fixed,2.25,,,fixed
-70,RBC,2,5,1,,fixed,2.2,,,fixed
-358,HSBC,2,3,1,,fixed,2.55,,,fixed
-359,HSBC,2,4,1,,fixed,2.5,,,fixed
-360,HSBC,2,5,1,,fixed,2.45,,,fixed
-394,National,1,4,1,,fixed,2.85,,,fixed
-364,HSBC,3,3,1,,fixed,2.6,,,fixed
-365,HSBC,3,4,1,,fixed,2.55,,,fixed
-366,HSBC,3,5,1,,fixed,2.5,,,fixed
-203,CIBC,3,3,1,,fixed,3.71,,,fixed
-374,HSBC,5,3,1,,fixed,2.65,,,fixed
-375,HSBC,5,4,1,,fixed,2.6,,,fixed
-376,HSBC,5,5,1,,fixed,2.55,,,fixed
-204,CIBC,3,4,1,,fixed,3.65,,,fixed
-21,TD,3,3,1,,fixed,2.36,,,fixed
-368,HSBC,3,1,1,,variable,3.95,1,,variable
-380,HSBC,5,3,1,,variable,2.46,,,variable
-381,HSBC,5,4,1,,variable,2.41,,,variable
-382,HSBC,5,5,1,,variable,2.36,,,variable
-813,HSBC,3,2,1,,variable,3.95,1,,variable
-814,HSBC,3,2,1,,variable,3.95,,,variable
-424,National,7,4,1,,fixed,5.55,,,fixed
-205,CIBC,3,5,1,,fixed,3.6,,,fixed
-22,TD,3,4,1,,fixed,2.3,,,fixed
-79,RBC,3,3,1,,fixed,2.41,,,fixed
-77,RBC,3,2,1,1,fixed,3.45,,,fixed
-395,National,1,5,1,,fixed,2.8,,,fixed
-112,RBC,5,3,1,,variable,2.12,,,variable
-342,BMO,10,3,1,,fixed,6.02,,,fixed
-15,TD,2,2,1,,fixed,3.25,,,fixed
-273,BMO,3,5,1,,fixed,2.25,,,fixed
-80,RBC,3,4,1,,fixed,2.35,,,fixed
-113,RBC,5,4,1,,variable,2.06,,,variable
-420,National,5,5,1,,variable,2.56,,,variable
-343,BMO,10,4,1,,fixed,5.96,,,fixed
-16,TD,2,3,1,,fixed,3.16,,,fixed
-197,CIBC,2,4,1,,fixed,3.05,,,fixed
-81,RBC,3,5,1,,fixed,2.3,,,fixed
-114,RBC,5,5,1,,variable,2.01,,,variable
-228,CIBC,7,1,1,,fixed,5.6,1,,fixed
-672,Coast Capital,3,2,1,,fixed,3.59,1,,fixed
-671,Coast Capital,3,2,1,,fixed,3.59,,,fixed
-675,Coast Capital,4,1,1,,fixed,4.08,1,,fixed
-388,HSBC,10,3,1,,fixed,3.45,,,fixed
-389,HSBC,10,4,1,,fixed,3.4,,,fixed
-390,HSBC,10,5,1,,fixed,3.35,,,fixed
-214,CIBC,4,5,1,,fixed,4.35,,,fixed
-189,CIBC,1,3,1,,fixed,3.01,,,fixed
-190,CIBC,1,4,1,,fixed,2.95,,,fixed
-191,CIBC,1,5,1,,fixed,2.9,,,fixed
-249,BMO,1,3,1,,fixed,3.01,,,fixed
-250,BMO,1,4,1,,fixed,2.95,,,fixed
-399,National,2,4,1,,fixed,3.1,,,fixed
-400,National,2,5,1,,fixed,3.05,,,fixed
-271,BMO,3,3,1,,fixed,2.36,,,fixed
-403,National,3,3,1,,fixed,3.67,,,fixed
-235,CIBC,10,1,1,,fixed,6.09,1,,fixed
-269,BMO,3,2,1,1,fixed,3.49,,,fixed
-964,BMO,7,1,1,,fixed,5.4,,,fixed
-116,RBC,7,1,1,,fixed,5.4,1,,fixed
-74,RBC,3,1,1,1,fixed,3.45,1,,fixed
-1248,ICICI,1,1,1,,fixed,3.19,1,,fixed
-538,Scotiabank,3,1,1,,variable,3.2,,,variable
-12,TD,1,4,1,,fixed,2.95,,,fixed
-13,TD,1,5,1,,fixed,2.9,,,fixed
-369,HSBC,4,1,1,,fixed,3.94,,,fixed
-85,RBC,4,1,1,1,fixed,4.09,1,,fixed
-668,Coast Capital,3,1,1,,fixed,1.99,,,fixed
-57,RBC,1,3,1,,fixed,2.66,,,fixed
-58,RBC,1,4,1,,fixed,2.6,,,fixed
-404,National,3,4,1,,fixed,3.61,,,fixed
-66,RBC,2,2,1,1,fixed,2.94,,,fixed
-59,RBC,1,5,1,,fixed,2.55,,,fixed
-88,RBC,4,2,1,1,fixed,4.09,,,fixed
-405,National,3,5,1,,fixed,3.56,,,fixed
-372,HSBC,5,1,1,,fixed,4.59,1,,fixed
-490,Equitable,1,2,1,,fixed,2.74,1,2.74,fixed
-499,Equitable,4,1,1,,fixed,2.24,,,fixed
-1249,ICICI,2,1,1,,fixed,3.19,1,,fixed
-1250,ICICI,3,1,1,,fixed,3.94,1,,fixed
-1251,ICICI,4,1,1,,fixed,4.29,1,,fixed
-491,Equitable,2,1,1,,fixed,2.24,,2.74,fixed
-14,TD,2,1,1,,fixed,2.24,,2.24,fixed
-1025,nuborrow,5,2,1,,variable,1.55,,1.55,variable
-1181,Westworth Financial,5,2,1,,variable,1.4,,1.35,variable
-526,Scotiabank,1,1,1,,fixed,2.79,,2.79,fixed
-855,First Ontario,7,1,1,,fixed,2.69,1,,fixed
-546,Scotiabank,5,2,1,,fixed,2.49,,2.39,fixed
-340,BMO,10,2,1,1,fixed,5.8,,,fixed
-808,HSBC,4,2,1,,fixed,3.94,,,fixed
-91,RBC,4,4,1,,fixed,2.25,,,fixed
-408,National,4,3,1,,fixed,2.26,,,fixed
-275,BMO,3,1,1,,variable,4.15,1,,variable
-279,BMO,3,2,1,,variable,4.15,1,,variable
-274,BMO,3,1,1,,variable,4.15,,,variable
-278,BMO,3,2,1,,variable,4.15,,,variable
-277,BMO,3,1,1,1,variable,4.15,1,,variable
-281,BMO,3,2,1,1,variable,4.15,1,,variable
-276,BMO,3,1,1,1,variable,4.15,,,variable
-280,BMO,3,2,1,1,variable,4.15,,,variable
-305,BMO,5,1,1,,variable,2.45,1,,variable
-309,BMO,5,2,1,,variable,2.45,1,,variable
-307,BMO,5,1,1,1,variable,2.45,1,,variable
-311,BMO,5,2,1,1,variable,2.45,1,,variable
-28,TD,4,5,1,,fixed,3.85,,,fixed
-47,TD,10,4,1,,fixed,5.76,,,fixed
-302,BMO,5,4,1,,fixed,2.09,,,fixed
-762,Simplii Financial,5,1,1,,variable,1.45,,,variable
-409,National,4,4,1,,fixed,2.2,,,fixed
-426,National,10,1,1,,fixed,5.79,,,fixed
-238,CIBC,10,3,1,,fixed,6.31,,,fixed
-44,TD,10,1,1,,fixed,5.6,,,fixed
-430,National,10,5,1,,fixed,5.9,,,fixed
-291,BMO,4,4,1,,fixed,4.25,,,fixed
-290,BMO,4,3,1,,fixed,4.31,,,fixed
-48,TD,10,5,1,,fixed,5.71,,,fixed
-92,RBC,4,5,1,,fixed,2.2,,,fixed
-292,BMO,4,5,1,,fixed,4.2,,,fixed
-429,National,10,4,1,,fixed,5.95,,,fixed
-213,CIBC,4,4,1,,fixed,4.4,,,fixed
-101,RBC,5,3,1,,fixed,2.44,,,fixed
-503,Equitable,5,1,1,,fixed,2.04,,3.84,fixed
-93,RBC,5,1,1,,fixed,2.49,,,fixed
-527,Scotiabank,1,1,1,,fixed,2.79,1,,fixed
-529,Scotiabank,1,2,1,,fixed,2.79,1,,fixed
-239,CIBC,10,4,1,,fixed,6.25,,,fixed
-45,TD,10,2,1,,fixed,5.91,,,fixed
-46,TD,10,3,1,,fixed,5.82,,,fixed
-90,RBC,4,3,1,,fixed,2.31,,,fixed
-410,National,4,5,1,,fixed,2.15,,,fixed
-102,RBC,5,4,1,,fixed,2.38,,,fixed
-240,CIBC,10,5,1,,fixed,6.2,,,fixed
-251,BMO,1,5,1,,fixed,2.9,,,fixed
-428,National,10,3,1,,fixed,6.01,,,fixed
-535,Scotiabank,3,1,1,,fixed,3.49,1,,fixed
-537,Scotiabank,3,2,1,,fixed,3.49,1,,fixed
-99,RBC,5,2,1,1,fixed,4.79,,,fixed
-539,Scotiabank,3,2,1,,variable,3.2,,,variable
-31,TD,5,3,1,,fixed,2.06,,,fixed
-551,Scotiabank,7,1,1,,fixed,5.29,1,,fixed
-553,Scotiabank,7,2,1,,fixed,5.29,1,,fixed
-555,Scotiabank,10,1,1,,fixed,5.69,1,,fixed
-557,Scotiabank,10,2,1,,fixed,5.69,1,,fixed
-423,National,7,3,1,,fixed,5.61,,,fixed
-32,TD,5,4,1,,fixed,2,,,fixed
-425,National,7,5,1,,fixed,5.5,,,fixed
-652,Coast Capital,1,1,1,,fixed,2.29,,,fixed
-846,First Ontario,5,1,1,,fixed,2.24,,,fixed
-121,RBC,7,2,1,1,fixed,5.4,,,fixed
-33,TD,5,5,1,,fixed,1.95,,,fixed
-303,BMO,5,5,1,,fixed,2.04,,,fixed
-331,BMO,7,3,1,,fixed,5.62,,,fixed
-332,BMO,7,4,1,,fixed,5.56,,,fixed
-333,BMO,7,5,1,,fixed,5.51,,,fixed
-231,CIBC,7,3,1,,fixed,2.75,,,fixed
-232,CIBC,7,4,1,,fixed,2.69,,,fixed
-50,RBC,1,1,1,,fixed,2.69,1,,fixed
-662,Coast Capital,2,1,1,,fixed,2.04,,,fixed
-528,Scotiabank,1,2,1,,fixed,2.79,,,fixed
-495,Equitable,3,1,1,,fixed,2.24,,2.99,fixed
-131,RBC,10,2,1,,fixed,5.8,1,,fixed
-524,MCAP,5,1,1,,fixed,2.34,,2.29,fixed
-96,RBC,5,1,1,1,fixed,4.79,1,,fixed
-118,RBC,7,1,1,1,fixed,5.4,1,,fixed
-518,Tangerine,5,1,1,,variable,1.45,,,variable
-519,Tangerine,5,2,1,,variable,1.45,,,variable
-530,Scotiabank,2,1,1,,fixed,2.34,,2.59,fixed
-532,Scotiabank,2,2,1,,fixed,2.89,,,fixed
-129,RBC,10,1,1,1,fixed,5.8,1,,fixed
-508,Tangerine,1,1,1,,fixed,2.79,,,fixed
-784,Citadel Mortgages,5,1,1,,variable,1.15,,1.4,variable
-525,MCAP,5,2,1,,fixed,2.34,,2.29,fixed
-536,Scotiabank,3,2,1,,fixed,2.24,,2.24,fixed
-504,Equitable,5,1,1,,fixed,3.59,1,,fixed
-549,Scotiabank,5,2,1,,variable,1.75,,2,variable
-540,Scotiabank,4,1,1,,fixed,2.39,,2.39,fixed
-282,BMO,4,1,1,,fixed,4.09,,,fixed
-674,Coast Capital,4,1,1,,fixed,2.04,,,fixed
-61,RBC,2,1,1,,fixed,2.94,1,,fixed
-1172,MCAP,3,2,1,,fixed,1.94,,1.94,fixed
-598,DUCA,6,1,1,,fixed,4.59,,,fixed
-223,CIBC,5,2,1,,variable,1.6,,,variable
-72,RBC,3,1,1,,fixed,3.45,1,,fixed
-431,Manulife,5,1,1,,fixed,2.49,,,fixed
-140,RBC,25,1,1,1,fixed,8.75,1,,fixed
-541,Scotiabank,4,1,1,,fixed,3.89,1,,fixed
-233,CIBC,7,5,1,,fixed,2.64,,,fixed
-40,TD,7,2,1,,fixed,5.66,,,fixed
-41,TD,7,3,1,,fixed,5.57,,,fixed
-42,TD,7,4,1,,fixed,5.51,,,fixed
-43,TD,7,5,1,,fixed,5.46,,,fixed
-432,Manulife,5,2,1,,fixed,2.49,,,fixed
-543,Scotiabank,4,2,1,,fixed,3.89,1,,fixed
-545,Scotiabank,5,1,1,,fixed,4.79,1,,fixed
-547,Scotiabank,5,2,1,,fixed,4.79,1,,fixed
-600,DUCA,7,1,1,,fixed,4.79,,,fixed
-312,BMO,5,3,1,,variable,2.11,,,variable
-313,BMO,5,4,1,,variable,2.05,,,variable
-314,BMO,5,5,1,,variable,2,,,variable
-36,TD,5,3,1,,variable,1.97,,,variable
-37,TD,5,4,1,,variable,1.91,,,variable
-38,TD,5,5,1,,variable,1.86,,,variable
-421,National,7,1,1,,fixed,5.39,,,fixed
-722,motusbank,1,1,1,,fixed,1.89,,,fixed
-856,First Ontario,7,1,1,,fixed,2.84,,,fixed
-456,Desjardins,5,1,1,,variable,2.45,1,,variable
-458,Desjardins,5,2,1,,variable,2.45,1,,variable
-749,Simplii Financial,2,2,1,,fixed,2.89,1,,fixed
-64,RBC,2,2,1,,fixed,2.94,,,fixed
-128,RBC,10,1,1,1,fixed,5.8,,,fixed
-346,BMO,18,1,1,,fixed,8.5,1,,fixed
-350,BMO,18,2,1,,fixed,8.5,1,,fixed
-345,BMO,18,1,1,,fixed,8.5,,,fixed
-349,BMO,18,2,1,,fixed,8.5,,,fixed
-348,BMO,18,1,1,1,fixed,8.5,1,,fixed
-352,BMO,18,2,1,1,fixed,8.5,1,,fixed
-347,BMO,18,1,1,1,fixed,8.5,,,fixed
-351,BMO,18,2,1,1,fixed,8.5,,,fixed
-132,RBC,10,2,1,1,fixed,5.8,,,fixed
-139,RBC,25,1,1,1,fixed,8.75,,,fixed
-143,RBC,25,2,1,1,fixed,8.75,,,fixed
-107,RBC,5,1,1,1,variable,2.45,1,,variable
-111,RBC,5,2,1,1,variable,2.45,1,,variable
-639,Alterna Savings,5,2,1,,fixed,5.44,1,,fixed
-506,Equitable,5,2,1,,fixed,3.59,1,,fixed
-723,motusbank,1,2,1,,fixed,1.89,,,fixed
-645,Alterna Savings,7,1,1,,fixed,5.55,1,,fixed
-647,Alterna Savings,7,2,1,,fixed,5.55,1,,fixed
-649,Alterna Savings,10,1,1,,fixed,5.95,1,,fixed
-651,Alterna Savings,10,2,1,,fixed,5.95,1,,fixed
-724,motusbank,2,1,1,,fixed,1.89,,,fixed
-531,Scotiabank,2,1,1,,fixed,2.89,1,,fixed
-533,Scotiabank,2,2,1,,fixed,2.89,1,,fixed
-678,Coast Capital,4,2,1,,fixed,4.08,1,,fixed
-677,Coast Capital,4,2,1,,fixed,4.08,,,fixed
-707,Coast Capital,8,2,1,,fixed,5.58,,,fixed
-413,National,5,3,1,,fixed,2.31,,,fixed
-414,National,5,4,1,,fixed,2.25,,,fixed
-542,Scotiabank,4,2,1,,fixed,3.89,,2.29,fixed
-792,Citadel Mortgages,3,2,1,,variable,2.65,,,variable
-103,RBC,5,5,1,,fixed,2.33,,,fixed
-219,CIBC,5,3,1,,fixed,2.32,,,fixed
-224,CIBC,5,3,1,,variable,2.67,,,variable
-493,Equitable,2,2,1,,fixed,2.24,,,fixed
-505,Equitable,5,2,1,,fixed,2.04,,3.84,fixed
-497,Equitable,3,2,1,,fixed,2.24,,,fixed
-501,Equitable,4,2,1,,fixed,2.24,,,fixed
-510,Tangerine,2,1,1,,fixed,1.78,,,fixed
-725,motusbank,2,2,1,,fixed,1.89,,,fixed
-727,motusbank,3,2,1,,fixed,1.89,,,fixed
-729,motusbank,4,2,1,,fixed,1.89,,,fixed
-556,Scotiabank,10,2,1,,fixed,5.69,,3.24,fixed
-1210,ICICI,2,2,1,,fixed,3.19,1,,fixed
-1211,ICICI,3,2,1,,fixed,3.94,1,,fixed
-1212,ICICI,4,2,1,,fixed,4.29,1,,fixed
-457,Desjardins,5,2,1,,variable,1.75,,,variable
-225,CIBC,5,4,1,,variable,2.61,,,variable
-226,CIBC,5,5,1,,variable,2.56,,,variable
-416,National,5,1,1,,variable,2.45,,,variable
-417,National,5,2,1,,variable,2.76,,,variable
-418,National,5,3,1,,variable,2.67,,,variable
-110,RBC,5,2,1,1,variable,2.45,,,variable
-440,Desjardins,2,1,1,,fixed,3.04,1,,fixed
-442,Desjardins,2,2,1,,fixed,3.04,1,,fixed
-444,Desjardins,3,1,1,,fixed,3.54,1,,fixed
-446,Desjardins,3,2,1,,fixed,3.54,1,,fixed
-617,Alterna Savings,1,1,1,,fixed,7,1,,fixed
-619,Alterna Savings,1,2,1,,fixed,7,1,,fixed
-641,Alterna Savings,5,1,1,,variable,3.65,1,,variable
-643,Alterna Savings,5,2,1,,variable,3.65,1,,variable
-629,Alterna Savings,3,1,1,,variable,4.15,1,,variable
-631,Alterna Savings,3,2,1,,variable,4.15,1,,variable
-681,Coast Capital,5,1,1,,fixed,4.79,1,,fixed
-684,Coast Capital,5,2,1,,fixed,4.79,1,,fixed
-683,Coast Capital,5,2,1,,fixed,4.79,,,fixed
-693,Coast Capital,6,1,1,,fixed,5.24,1,,fixed
-448,Desjardins,4,1,1,,fixed,4.09,1,,fixed
-450,Desjardins,4,2,1,,fixed,4.09,1,,fixed
-696,Coast Capital,6,2,1,,fixed,5.24,1,,fixed
-452,Desjardins,5,1,1,,fixed,4.74,1,,fixed
-708,Coast Capital,8,2,1,,fixed,5.58,1,,fixed
-829,Investors Group,1,2,1,,fixed,3.1,,,fixed
-454,Desjardins,5,2,1,,fixed,4.74,1,,fixed
-460,Desjardins,7,1,1,,fixed,5.39,1,,fixed
-462,Desjardins,7,2,1,,fixed,5.39,1,,fixed
-658,Coast Capital,1,1,1,,variable,2.29,,,variable
-718,Coast Capital,10,1,1,1,fixed,3.04,,,fixed
-659,Coast Capital,1,1,1,,variable,6.6,1,,variable
-661,Coast Capital,1,2,1,,variable,6.6,1,,variable
-660,Coast Capital,1,2,1,,variable,6.6,,,variable
-464,Desjardins,10,1,1,,fixed,5.79,1,,fixed
-466,Desjardins,10,2,1,,fixed,5.79,1,,fixed
-436,Desjardins,1,1,1,,fixed,6.95,1,,fixed
-435,Desjardins,1,1,1,,fixed,2.79,,,fixed
-438,Desjardins,1,2,1,,fixed,6.95,1,,fixed
-185,CIBC,1,1,1,,fixed,2.79,,,fixed
-187,CIBC,1,2,1,,fixed,3.1,,,fixed
-439,Desjardins,2,1,1,,fixed,2.94,,,fixed
-753,Simplii Financial,3,2,1,,fixed,3.64,1,,fixed
-757,Simplii Financial,4,2,1,,fixed,4.29,1,,fixed
-54,RBC,1,2,1,,fixed,2.69,1,,fixed
-761,Simplii Financial,5,2,1,,fixed,4.74,1,,fixed
-767,Simplii Financial,7,1,1,,fixed,5.39,1,,fixed
-769,Simplii Financial,7,2,1,,fixed,5.39,1,,fixed
-1185,Westworth Financial,4,1,1,,fixed,1.79,,2.13,fixed
-771,Simplii Financial,10,1,1,,fixed,6.25,1,,fixed
-773,Simplii Financial,10,2,1,,fixed,6.25,1,,fixed
-443,Desjardins,3,1,1,,fixed,3.49,,,fixed
-765,Simplii Financial,5,2,1,,variable,2.45,1,,variable
-188,CIBC,1,2,1,,fixed,2.79,1,,fixed
-367,HSBC,3,1,1,,variable,3.95,,,variable
-192,CIBC,2,1,1,,fixed,2.89,,,fixed
-194,CIBC,2,2,1,,fixed,3.2,,,fixed
-199,CIBC,3,1,1,,fixed,3.49,,,fixed
-201,CIBC,3,2,1,,fixed,3.8,,,fixed
-621,Alterna Savings,2,1,1,,fixed,1.89,1,,fixed
-623,Alterna Savings,2,2,1,,fixed,1.89,1,,fixed
-625,Alterna Savings,3,1,1,,fixed,1.89,1,,fixed
-627,Alterna Savings,3,2,1,,fixed,1.89,1,,fixed
-633,Alterna Savings,4,1,1,,fixed,1.89,1,,fixed
-635,Alterna Savings,4,2,1,,fixed,1.89,1,,fixed
-637,Alterna Savings,5,1,1,,fixed,5.44,1,,fixed
-401,National,3,1,1,,fixed,3.45,,,fixed
-1176,MCAP,4,1,1,,fixed,1.84,,2.04,fixed
-234,CIBC,10,1,1,,fixed,6.09,,,fixed
-517,Tangerine,5,2,1,,fixed,2.14,,,fixed
-807,HSBC,4,2,1,,fixed,3.94,1,,fixed
-828,Investors Group,1,2,1,,fixed,3.1,1,,fixed
-236,CIBC,10,2,1,,fixed,6.4,,,fixed
-715,Coast Capital,9,2,1,1,fixed,4.29,,,fixed
-721,Coast Capital,10,2,1,1,fixed,2.84,,,fixed
-830,Investors Group,2,2,1,,fixed,3.2,1,,fixed
-550,Scotiabank,7,1,1,,fixed,2.84,,2.84,fixed
-195,CIBC,2,2,1,,fixed,2.89,1,,fixed
-766,Simplii Financial,7,1,1,,fixed,5.39,,,fixed
-202,CIBC,3,2,1,,fixed,3.49,1,,fixed
-211,CIBC,4,2,1,,fixed,4.24,1,,fixed
-521,Tangerine,7,2,1,,fixed,2.64,,,fixed
-770,Simplii Financial,10,1,1,,fixed,6.25,,,fixed
-552,Scotiabank,7,2,1,,fixed,5.29,,2.84,fixed
-258,BMO,2,2,1,1,fixed,2.94,,,fixed
-267,BMO,3,2,1,,fixed,3.49,,,fixed
-391,National,1,1,1,,fixed,2.69,,,fixed
-396,National,2,1,1,,fixed,2.94,,,fixed
-523,Tangerine,10,2,1,,fixed,3.09,,,fixed
-1274,Metro Mortgage,3,1,1,,fixed,1.59,,2.14,fixed
-688,Coast Capital,5,1,1,1,variable,1.7,,,variable
-691,Coast Capital,5,2,1,1,variable,1.7,,,variable
-653,Coast Capital,1,1,1,,fixed,3.09,1,,fixed
-656,Coast Capital,1,2,1,,fixed,3.09,1,,fixed
-10,TD,1,2,1,,fixed,3.1,,,fixed
-11,TD,1,3,1,,fixed,3.01,,,fixed
-831,Investors Group,2,2,1,,fixed,3.2,,,fixed
-393,National,1,3,1,,fixed,2.91,,,fixed
-344,BMO,10,5,1,,fixed,5.91,,,fixed
-398,National,2,3,1,,fixed,3.16,,,fixed
-272,BMO,3,4,1,,fixed,2.3,,,fixed
-23,TD,3,5,1,,fixed,2.25,,,fixed
-53,RBC,1,2,1,,fixed,2.69,,,fixed
-212,CIBC,4,3,1,,fixed,4.46,,,fixed
-75,RBC,3,2,1,,fixed,3.45,,,fixed
-27,TD,4,4,1,,fixed,3.9,,,fixed
-220,CIBC,5,4,1,,fixed,2.26,,,fixed
-833,Investors Group,3,2,1,,fixed,3.65,,,fixed
-587,DUCA,2,2,1,,fixed,2.69,,2.64,fixed
-1215,ICICI,1,1,1,,fixed,3.19,,,fixed
-1216,ICICI,2,1,1,,fixed,3.19,,,fixed
-221,CIBC,5,5,1,,fixed,2.21,,,fixed
-301,BMO,5,3,1,,fixed,2.15,,,fixed
-39,TD,7,1,1,,fixed,5.35,,,fixed
-86,RBC,4,2,1,,fixed,4.09,,,fixed
-97,RBC,5,2,1,,fixed,4.79,,,fixed
-119,RBC,7,2,1,,fixed,5.4,,,fixed
-126,RBC,10,1,1,,fixed,5.8,,,fixed
-130,RBC,10,2,1,,fixed,5.8,,,fixed
-698,Coast Capital,7,1,1,,fixed,2.69,,,fixed
-137,RBC,25,1,1,,fixed,8.75,,,fixed
-141,RBC,25,2,1,,fixed,8.75,,,fixed
-105,RBC,5,1,1,,variable,2.45,1,,variable
-109,RBC,5,2,1,,variable,2.45,1,,variable
-108,RBC,5,2,1,,variable,2.45,,,variable
-1219,ICICI,5,1,1,,fixed,5.14,,,fixed
-55,RBC,1,2,1,1,fixed,2.69,,,fixed
-1217,ICICI,3,1,1,,fixed,3.94,,,fixed
-788,Citadel Mortgages,3,1,1,,variable,2.35,,2.65,variable
-218,CIBC,5,2,1,,fixed,4.79,1,,fixed
-711,Coast Capital,9,1,1,,fixed,5.75,1,,fixed
-714,Coast Capital,9,2,1,,fixed,5.75,1,,fixed
-1169,MCAP,2,1,1,,fixed,1.54,,1.94,fixed
-759,Simplii Financial,5,1,1,,fixed,1.74,1,,fixed
-713,Coast Capital,9,2,1,,fixed,5.75,,,fixed
-590,DUCA,3,1,1,,variable,3.45,,,variable
-763,Simplii Financial,5,1,1,,variable,1.7,1,,variable
-717,Coast Capital,10,1,1,,fixed,5.84,1,,fixed
-720,Coast Capital,10,2,1,,fixed,5.84,1,,fixed
-703,Coast Capital,7,2,1,1,fixed,2.54,,,fixed
-709,Coast Capital,8,2,1,1,fixed,4.24,,,fixed
-208,CIBC,4,1,1,,fixed,4.24,,,fixed
-210,CIBC,4,2,1,,fixed,4.55,,,fixed
-673,Coast Capital,3,2,1,1,fixed,1.99,,,fixed
-679,Coast Capital,4,2,1,1,fixed,1.89,,,fixed
-685,Coast Capital,5,2,1,1,fixed,1.94,,,fixed
-697,Coast Capital,6,2,1,1,fixed,2.59,,,fixed
-809,HSBC,5,2,1,,fixed,4.59,1,,fixed
-596,DUCA,5,1,1,,variable,2.95,,3.15,variable
-83,RBC,4,1,1,,fixed,4.09,1,,fixed
-94,RBC,5,1,1,,fixed,4.79,1,,fixed
-9,TD,1,1,1,,fixed,2.54,,2.54,fixed
-378,HSBC,5,1,1,,variable,2.65,1,,variable
-695,Coast Capital,6,2,1,,fixed,5.24,,,fixed
-509,Tangerine,1,2,1,,fixed,2.79,,,fixed
-832,Investors Group,3,2,1,,fixed,3.65,1,,fixed
-834,Investors Group,4,2,1,,fixed,4.24,1,,fixed
-217,CIBC,5,2,1,,fixed,2.44,,,fixed
-230,CIBC,7,2,1,,fixed,5.6,1,,fixed
-227,CIBC,7,1,1,,fixed,2.94,,,fixed
-700,Coast Capital,7,1,1,1,fixed,2.79,,,fixed
-229,CIBC,7,2,1,,fixed,2.94,,,fixed
-237,CIBC,10,2,1,,fixed,6.09,1,,fixed
-215,CIBC,5,1,1,,fixed,2.37,,,fixed
-706,Coast Capital,8,1,1,1,fixed,4.24,,,fixed
-712,Coast Capital,9,1,1,1,fixed,4.29,,,fixed
-980,CIBC,5,2,1,,variable,2.45,1,,variable
-67,RBC,2,2,1,1,fixed,2.94,1,,fixed
-969,BMO,5,1,1,,variable,1.55,,,variable
-682,Coast Capital,5,1,1,1,fixed,2.24,,,fixed
-694,Coast Capital,6,1,1,1,fixed,2.74,,,fixed
-512,Tangerine,3,1,1,,fixed,1.89,,,fixed
-514,Tangerine,4,1,1,,fixed,2.04,,,fixed
-516,Tangerine,5,1,1,,fixed,2.14,,,fixed
-520,Tangerine,7,1,1,,fixed,2.64,,,fixed
-1218,ICICI,4,1,1,,fixed,4.29,,,fixed
-1171,MCAP,2,2,1,,fixed,1.94,,1.94,fixed
-246,BMO,1,2,1,,fixed,2.79,1,,fixed
-699,Coast Capital,7,1,1,,fixed,5.49,1,,fixed
-702,Coast Capital,7,2,1,,fixed,5.49,1,,fixed
-701,Coast Capital,7,2,1,,fixed,5.49,,,fixed
-705,Coast Capital,8,1,1,,fixed,5.58,1,,fixed
-544,Scotiabank,5,1,1,,fixed,2.29,,2.49,fixed
-620,Alterna Savings,2,1,1,,fixed,1.54,,,fixed
-748,Simplii Financial,2,2,1,,fixed,1.99,,,fixed
-616,Alterna Savings,1,1,1,,fixed,1.79,,,fixed
-624,Alterna Savings,3,1,1,,fixed,1.79,,,fixed
-632,Alterna Savings,4,1,1,,fixed,1.84,,,fixed
-644,Alterna Savings,7,1,1,,fixed,5.55,,,fixed
-648,Alterna Savings,10,1,1,,fixed,5.95,,,fixed
-657,Coast Capital,1,2,1,1,fixed,2.34,,,fixed
-667,Coast Capital,2,2,1,1,fixed,2.09,,,fixed
-20,TD,3,2,1,,fixed,2.14,,2.14,fixed
-747,Simplii Financial,2,1,1,,fixed,2.01,1,,fixed
-719,Coast Capital,10,2,1,,fixed,5.84,,,fixed
-687,Coast Capital,5,1,1,,variable,2.45,1,,variable
-690,Coast Capital,5,2,1,,variable,2.45,1,,variable
-689,Coast Capital,5,2,1,,variable,2.45,,,variable
-751,Simplii Financial,3,1,1,,fixed,1.99,1,,fixed
-835,Investors Group,4,2,1,,fixed,4.24,,,fixed
-755,Simplii Financial,4,1,1,,fixed,1.94,1,,fixed
-628,Alterna Savings,3,1,1,,variable,3.55,,,variable
-73,RBC,3,1,1,1,fixed,2.34,,,fixed
-259,BMO,2,2,1,1,fixed,2.94,1,,fixed
-379,HSBC,5,2,1,,variable,1.29,,,variable
-630,Alterna Savings,3,2,1,,variable,3.55,,,variable
-906,TD,2,1,1,,fixed,2.94,1,,fixed
-907,TD,3,1,1,,fixed,3.49,1,,fixed
-268,BMO,3,2,1,,fixed,3.49,1,,fixed
-322,BMO,6,2,1,1,fixed,5.24,1,,fixed
-1174,MCAP,5,1,1,,variable,1.55,,1.55,variable
-328,BMO,7,2,1,,fixed,5.4,1,,fixed
-775,Citadel Mortgages,1,2,1,,fixed,1.94,,,fixed
-908,TD,4,1,1,,fixed,3.74,1,,fixed
-30,TD,5,2,1,,fixed,2.44,,2.34,fixed
-777,Citadel Mortgages,2,2,1,,fixed,1.74,,,fixed
-522,Tangerine,10,1,1,,fixed,3.09,,,fixed
-779,Citadel Mortgages,3,2,1,,fixed,1.64,,2.14,fixed
-1283,Metro Mortgage,5,2,1,,variable,1.45,,1.55,variable
-1282,Metro Mortgage,5,1,1,,variable,1.45,,1.55,variable
-371,HSBC,5,1,1,,fixed,2.19,,,fixed
-384,HSBC,7,1,1,,fixed,5.64,1,,fixed
-810,HSBC,7,2,1,,fixed,5.64,1,,fixed
-815,HSBC,5,2,1,,variable,2.65,1,,variable
-373,HSBC,5,2,1,,fixed,2.19,,,fixed
-752,Simplii Financial,3,2,1,,fixed,1.94,,,fixed
-874,Citadel Mortgages,7,1,1,,fixed,2.14,,,fixed
-909,TD,5,1,1,,fixed,4.59,1,,fixed
-756,Simplii Financial,4,2,1,,fixed,2.09,,,fixed
-760,Simplii Financial,5,2,1,,fixed,2.24,,,fixed
-300,BMO,5,2,1,1,fixed,4.79,1,,fixed
-298,BMO,5,2,1,,fixed,3.99,1,,fixed
-910,TD,6,1,1,,fixed,5.24,1,,fixed
-911,TD,7,1,1,,fixed,5.35,1,,fixed
-377,HSBC,5,1,1,,variable,1.29,,,variable
-912,TD,10,1,1,,fixed,5.6,1,,fixed
-1173,MCAP,5,2,1,,variable,1.55,,1.55,variable
-1184,Westworth Financial,3,1,1,,fixed,1.58,,2.13,fixed
-1175,MCAP,1,1,1,,fixed,1.84,,,fixed
-1080,HSBC,2,1,1,,variable,1.24,,,variable
-1081,HSBC,2,2,1,,variable,1.24,,,variable
-447,Desjardins,4,1,1,,fixed,4.09,,,fixed
-320,BMO,6,2,1,,fixed,5.24,1,,fixed
-330,BMO,7,2,1,1,fixed,5.4,1,,fixed
-463,Desjardins,10,1,1,,fixed,5.79,,,fixed
-559,First National,1,1,1,,fixed,1.99,1,,fixed
-764,Simplii Financial,5,2,1,,variable,1.45,,,variable
-781,Citadel Mortgages,4,2,1,,fixed,1.79,,,fixed
-558,First National,1,1,1,,fixed,1.99,,2.54,fixed
-341,BMO,10,2,1,1,fixed,5.8,1,,fixed
-746,Simplii Financial,2,1,1,,fixed,1.99,,,fixed
-768,Simplii Financial,7,2,1,,fixed,5.39,,,fixed
-772,Simplii Financial,10,2,1,,fixed,6.25,,,fixed
-836,Investors Group,5,2,1,,fixed,4.79,1,,fixed
-787,Citadel Mortgages,10,2,1,,fixed,2.64,,,fixed
-640,Alterna Savings,5,1,1,,variable,2.95,,,variable
-642,Alterna Savings,5,2,1,,variable,2.95,,,variable
-286,BMO,4,2,1,,fixed,4.09,,,fixed
-288,BMO,4,2,1,1,fixed,4.09,,,fixed
-355,HSBC,2,1,1,,fixed,1.74,,,fixed
-554,Scotiabank,10,1,1,,fixed,3.24,,3.24,fixed
-487,Equitable,1,1,1,,fixed,2.74,,2.74,fixed
-308,BMO,5,2,1,,variable,2.45,,,variable
-385,HSBC,10,1,1,,fixed,2.74,,,fixed
-971,TD,1,2,1,,fixed,2.79,1,,fixed
-972,TD,2,2,1,,fixed,2.94,1,2.24,fixed
-242,BMO,1,1,1,,fixed,2.79,1,,fixed
-387,HSBC,10,2,1,,fixed,2.74,,,fixed
-646,Alterna Savings,7,2,1,,fixed,5.55,,,fixed
-650,Alterna Savings,10,2,1,,fixed,5.95,,,fixed
-310,BMO,5,2,1,1,variable,2.45,,,variable
-60,RBC,2,1,1,,fixed,2.09,,,fixed
-562,First National,2,1,1,,fixed,1.99,,2.24,fixed
-566,First National,3,1,1,,fixed,1.99,,2.14,fixed
-244,BMO,1,1,1,1,fixed,2.79,1,,fixed
-95,RBC,5,1,1,1,fixed,2.59,,,fixed
-494,Equitable,2,2,1,,fixed,2.74,1,2.74,fixed
-71,RBC,3,1,1,,fixed,2.24,,,fixed
-570,First National,4,1,1,,fixed,1.99,,2.24,fixed
-383,HSBC,7,1,1,,fixed,5.64,,,fixed
-299,BMO,5,2,1,1,fixed,4.79,,,fixed
-297,BMO,5,2,1,,fixed,3.99,,,fixed
-319,BMO,6,2,1,,fixed,5.24,,,fixed
-811,HSBC,7,2,1,,fixed,5.64,,,fixed
-386,HSBC,10,1,1,,fixed,5.99,1,,fixed
-82,RBC,4,1,1,,fixed,2.39,,,fixed
-783,Citadel Mortgages,5,2,1,,fixed,2.05,,2.09,fixed
-812,HSBC,10,2,1,,fixed,5.99,1,,fixed
-321,BMO,6,2,1,1,fixed,5.24,,,fixed
-117,RBC,7,1,1,1,fixed,3.29,,,fixed
-680,Coast Capital,5,1,1,,fixed,2.04,,,fixed
-104,RBC,5,1,1,,variable,1.6,,,variable
-24,TD,4,1,1,,fixed,2.29,,2.29,fixed
-115,RBC,7,1,1,,fixed,3.19,,,fixed
-785,Citadel Mortgages,5,2,1,,variable,1.25,,1.4,variable
-498,Equitable,3,2,1,,fixed,2.99,1,2.99,fixed
-563,First National,2,1,1,,fixed,1.99,1,,fixed
-51,RBC,1,1,1,1,fixed,2.54,,,fixed
-106,RBC,5,1,1,1,variable,1.7,,,variable
-502,Equitable,4,2,1,,fixed,4.09,1,,fixed
-62,RBC,2,1,1,1,fixed,2.19,,,fixed
-65,RBC,2,2,1,,fixed,2.94,1,,fixed
-35,TD,5,2,1,,variable,1.55,,1.55,variable
-29,TD,5,1,1,,fixed,2.34,,2.44,fixed
-692,Coast Capital,6,1,1,,fixed,2.64,,,fixed
-76,RBC,3,2,1,,fixed,3.45,1,,fixed
-87,RBC,4,2,1,,fixed,4.09,1,,fixed
-704,Coast Capital,8,1,1,,fixed,4.14,,,fixed
-567,First National,3,1,1,,fixed,1.99,1,,fixed
-98,RBC,5,2,1,,fixed,4.79,1,,fixed
-120,RBC,7,2,1,,fixed,5.4,1,,fixed
-710,Coast Capital,9,1,1,,fixed,4.19,,,fixed
-716,Coast Capital,10,1,1,,fixed,2.94,,,fixed
-654,Coast Capital,1,1,1,1,fixed,2.39,,,fixed
-571,First National,4,1,1,,fixed,1.99,1,,fixed
-664,Coast Capital,2,1,1,1,fixed,2.14,,,fixed
-670,Coast Capital,3,1,1,1,fixed,2.09,,,fixed
-357,HSBC,2,2,1,,fixed,1.74,,,fixed
-34,TD,5,1,1,,variable,1.55,,1.55,variable
-511,Tangerine,2,2,1,,fixed,1.78,,,fixed
-1177,MCAP,4,2,1,,fixed,2.04,,2.04,fixed
-838,Investors Group,7,2,1,,fixed,6.5,1,,fixed
-513,Tangerine,3,2,1,,fixed,1.89,,,fixed
-840,Investors Group,10,2,1,,fixed,6.75,1,,fixed
-515,Tangerine,4,2,1,,fixed,2.04,,,fixed
-1277,Metro Mortgage,3,2,1,,fixed,2.14,,2.14,fixed
-837,Investors Group,5,2,1,,fixed,4.79,,,fixed
-839,Investors Group,7,2,1,,fixed,6.5,,,fixed
-575,First National,5,1,1,,fixed,2.09,1,,fixed
-581,First National,10,1,1,,fixed,3.3,,3.3,fixed
-593,DUCA,4,2,1,,fixed,2.79,,2.84,fixed
-1263,Alterna Savings,1,1,1,,variable,6.35,,,variable
-579,First National,7,1,1,,fixed,2.84,1,,fixed
-406,National,4,1,1,,fixed,2.19,,,fixed
-411,National,5,1,1,,fixed,2.24,,,fixed
-582,First National,10,1,1,,fixed,3.15,1,,fixed
-1264,Alterna Savings,1,2,1,,variable,6.35,,,variable
-561,First National,1,2,1,,fixed,1.99,1,,fixed
-1265,ATB,5,1,1,,variable,1.65,,,variable
-850,First Ontario,2,1,1,,fixed,2.24,,,fixed
-1266,ATB,1,1,1,,fixed,2.49,,,fixed
-622,Alterna Savings,2,2,1,,fixed,1.54,,,fixed
-618,Alterna Savings,1,2,1,,fixed,1.79,,,fixed
-588,DUCA,3,1,1,,fixed,2.49,,2.74,fixed
-583,First National,10,2,1,,fixed,3.3,,,fixed
-852,First Ontario,3,1,1,,fixed,2.24,,,fixed
-626,Alterna Savings,3,2,1,,fixed,1.79,,,fixed
-1267,ATB,2,1,1,,fixed,2.49,,,fixed
-565,First National,2,2,1,,fixed,1.99,1,,fixed
-854,First Ontario,4,1,1,,fixed,2.24,,,fixed
-634,Alterna Savings,4,2,1,,fixed,1.84,,,fixed
-392,National,1,2,1,,fixed,2.69,,,fixed
-1190,Westworth Financial,3,1,1,,variable,2.5,,,variable
-1188,Westworth Financial,1,2,1,,fixed,2.24,,,fixed
-744,Peoples Bank,5,1,1,,variable,1.45,,,variable
-1182,Westworth Financial,1,1,1,,fixed,1.89,,2.13,fixed
-569,First National,3,2,1,,fixed,1.99,1,,fixed
-1183,Westworth Financial,2,1,1,,fixed,1.58,,2.13,fixed
-397,National,2,2,1,,fixed,2.94,,,fixed
-573,First National,4,2,1,,fixed,1.99,1,,fixed
-595,DUCA,5,2,1,,fixed,2.49,,2.54,fixed
-745,Peoples Bank,5,2,1,,variable,1.45,,,variable
-973,TD,3,2,1,,fixed,3.49,1,2.14,fixed
-974,TD,4,2,1,,fixed,3.74,1,2.19,fixed
-975,TD,5,2,1,,fixed,4.59,1,2.34,fixed
-1262,Alterna Savings,5,1,1,,fixed,1.65,,,fixed
-638,Alterna Savings,5,2,1,,fixed,1.65,,,fixed
-976,TD,6,2,1,,fixed,5.24,1,,fixed
-847,First Ontario,1,1,1,,fixed,2.44,1,,fixed
-848,First Ontario,1,1,1,,fixed,2.44,,,fixed
-589,DUCA,3,2,1,,fixed,2.69,,2.74,fixed
-849,First Ontario,2,1,1,,fixed,2.09,1,,fixed
-977,TD,7,2,1,,fixed,5.35,1,,fixed
-586,DUCA,2,1,1,,fixed,2.59,,2.64,fixed
-599,DUCA,6,2,1,,fixed,4.59,,,fixed
-316,BMO,6,1,1,,fixed,5.24,1,,fixed
-851,First Ontario,3,1,1,,fixed,2.09,1,,fixed
-78,RBC,3,2,1,1,fixed,3.45,1,,fixed
-89,RBC,4,2,1,1,fixed,4.09,1,,fixed
-601,DUCA,7,2,1,,fixed,4.79,,,fixed
-100,RBC,5,2,1,1,fixed,4.79,1,,fixed
-584,DUCA,1,1,1,,fixed,2.69,,2.94,fixed
-853,First Ontario,4,1,1,,fixed,2.09,1,,fixed
-1189,Westworth Financial,2,2,1,,fixed,2.19,,2.19,fixed
-318,BMO,6,1,1,1,fixed,5.24,1,,fixed
-845,First Ontario,5,1,1,,fixed,2.09,1,,fixed
-324,BMO,7,1,1,,fixed,5.4,1,,fixed
-585,DUCA,1,2,1,,fixed,2.89,,2.94,fixed
-326,BMO,7,1,1,1,fixed,5.4,1,,fixed
-133,RBC,10,2,1,1,fixed,5.8,1,,fixed
-337,BMO,10,1,1,1,fixed,5.8,1,,fixed
-144,RBC,25,2,1,1,fixed,8.75,1,,fixed
-335,BMO,10,1,1,,fixed,4.49,1,,fixed
-1186,Westworth Financial,3,2,1,,fixed,2.14,,2.14,fixed
-241,BMO,1,1,1,,fixed,2.79,,,fixed
-560,First National,1,2,1,,fixed,2.54,,,fixed
-243,BMO,1,1,1,1,fixed,2.79,,,fixed
-1187,Westworth Financial,4,2,1,,fixed,1.94,,2.14,fixed
-252,BMO,2,1,1,,fixed,2.94,,,fixed
-564,First National,2,2,1,,fixed,2.24,,,fixed
-254,BMO,2,1,1,1,fixed,2.94,,,fixed
-591,DUCA,3,2,1,,variable,3.45,,,variable
-574,First National,5,1,1,,fixed,2.09,,2.49,fixed
-578,First National,7,1,1,,fixed,2.94,,2.94,fixed
-956,BMO,3,1,1,1,fixed,3.49,,,fixed
-568,First National,3,2,1,,fixed,2.14,,,fixed
-293,BMO,5,1,1,,fixed,2.34,,,fixed
-1054,ATB,5,2,1,,fixed,1.99,,,fixed
-818,Canada Life,4,2,1,,fixed,2.1,,,fixed
-843,Investors Group,5,2,1,,variable,2.45,,,variable
-819,Canada Life,4,1,1,,fixed,1.95,,,fixed
-1053,ATB,5,2,1,,variable,1.65,,,variable
-869,Canadian Western,5,2,1,,fixed,4.09,1,,fixed
-871,Canadian Western,5,1,1,,fixed,2.14,,,fixed
-597,DUCA,5,2,1,,variable,3.15,,3.15,variable
-870,Canadian Western,5,2,1,,fixed,2.14,,,fixed
-872,Canadian Western,5,2,1,,variable,1.9,1,,variable
-857,Canadian Western,1,2,1,,fixed,2.69,1,,fixed
-1051,Banyan Mortgage,5,1,1,,variable,1.25,,1.35,variable
-1252,ICICI,5,1,1,,fixed,5.14,1,,fixed
-1055,ATB,1,2,1,,fixed,2.49,,,fixed
-1057,ATB,3,2,1,,fixed,2.24,,,fixed
-1058,ATB,4,2,1,,fixed,2.24,,,fixed
-859,Canadian Western,1,1,1,,fixed,2.09,,2.84,fixed
-1056,ATB,2,2,1,,fixed,2.49,,,fixed
-862,Canadian Western,2,1,1,,fixed,2.04,,2.84,fixed
-84,RBC,4,1,1,1,fixed,2.49,,,fixed
-1052,Banyan Mortgage,5,2,1,,variable,1.35,,1.35,variable
-858,Canadian Western,1,2,1,,fixed,2.09,,,fixed
-1179,Westworth Financial,5,2,1,,fixed,1.93,,2.13,fixed
-820,Canada Life,5,2,1,,fixed,2.17,,,fixed
-860,Canadian Western,2,2,1,,fixed,2.79,1,,fixed
-1100,First Ontario,2,2,1,,fixed,2.24,,,fixed
-1213,ICICI,5,2,1,,fixed,5.14,1,,fixed
-821,Canada Life,5,1,1,,fixed,2.02,,,fixed
-1214,ICICI,5,1,1,,variable,2.5,,,variable
-1101,First Ontario,3,2,1,,fixed,2.24,,,fixed
-861,Canadian Western,2,2,1,,fixed,2.04,,,fixed
-824,Canada Life,1,2,1,,fixed,3.1,,,fixed
-825,Canada Life,2,2,1,,fixed,3.2,,,fixed
-863,Canadian Western,3,2,1,,fixed,3.19,1,,fixed
-1102,First Ontario,4,2,1,,fixed,2.24,,,fixed
-1221,motusbank,1,1,1,,fixed,3.09,1,,fixed
-1103,First Ontario,5,2,1,,fixed,2.24,,,fixed
-1222,motusbank,2,1,1,,fixed,3.19,1,,fixed
-1223,motusbank,3,1,1,,fixed,3.49,1,,fixed
-865,Canadian Western,3,1,1,,fixed,1.94,,3.75,fixed
-864,Canadian Western,3,2,1,,fixed,1.94,,,fixed
-1224,motusbank,4,1,1,,fixed,3.74,1,,fixed
-1104,First Ontario,7,2,1,,fixed,2.84,,,fixed
-548,Scotiabank,5,1,1,,variable,1.75,,2,variable
-866,Canadian Western,4,2,1,,fixed,3.59,1,,fixed
-726,motusbank,3,1,1,,fixed,1.89,,,fixed
-868,Canadian Western,4,1,1,,fixed,2.14,,,fixed
-728,motusbank,4,1,1,,fixed,1.89,,,fixed
-1049,Banyan Mortgage,5,1,1,,fixed,1.5,,1.89,fixed
-1180,Westworth Financial,5,1,1,,variable,1.25,,1.35,variable
-867,Canadian Western,4,2,1,,fixed,2.14,,,fixed
-826,Canada Life,7,2,1,,fixed,6.5,,,fixed
-873,Canadian Western,5,2,1,,variable,1.9,,,variable
-883,Meridian,1,2,1,,fixed,3.09,1,,fixed
-730,motusbank,5,1,1,,fixed,1.89,,,fixed
-844,Investors Group,5,1,1,,fixed,4.79,,,fixed
-827,Canada Life,10,2,1,,fixed,6.75,,,fixed
-1050,Banyan Mortgage,5,2,1,,fixed,1.69,,1.89,fixed
-816,Canada Life,3,2,1,,fixed,2.05,,,fixed
-817,Canada Life,3,1,1,,fixed,1.9,,,fixed
-822,Canada Life,5,1,1,,variable,1.48,,,variable
-823,Canada Life,5,2,1,,variable,1.48,,,variable
-841,Investors Group,10,2,1,,fixed,6.75,,,fixed
-1098,First Ontario,5,2,1,,variable,2.25,,,variable
-842,Investors Group,5,1,1,,variable,2.45,,,variable
-1099,First Ontario,1,2,1,,fixed,2.44,,,fixed
-1227,Canada Life,7,1,1,,fixed,6.5,,,fixed
-270,BMO,3,2,1,1,fixed,3.49,1,,fixed
-354,HSBC,1,1,1,,fixed,2.49,1,,fixed
-287,BMO,4,2,1,,fixed,4.09,1,,fixed
-803,HSBC,1,2,1,,fixed,2.49,1,,fixed
-1228,Canada Life,10,1,1,,fixed,6.75,,,fixed
-285,BMO,4,1,1,1,fixed,4.09,1,,fixed
-289,BMO,4,2,1,1,fixed,4.09,1,,fixed
-356,HSBC,2,1,1,,fixed,3.04,1,,fixed
-805,HSBC,2,2,1,,fixed,3.04,1,,fixed
-362,HSBC,3,1,1,,fixed,3.44,1,,fixed
-1229,First Ontario,5,1,1,,variable,2.25,,,variable
-806,HSBC,3,2,1,,fixed,3.44,1,,fixed
-1230,Investors Group,1,1,1,,fixed,3.1,,,fixed
-245,BMO,1,2,1,,fixed,2.79,,,fixed
-370,HSBC,4,1,1,,fixed,3.94,1,,fixed
-247,BMO,1,2,1,1,fixed,2.79,,,fixed
-1231,Investors Group,2,1,1,,fixed,3.2,,,fixed
-1232,Investors Group,3,1,1,,fixed,3.65,,,fixed
-1233,Investors Group,4,1,1,,fixed,4.24,,,fixed
-256,BMO,2,2,1,,fixed,2.94,,,fixed
-327,BMO,7,2,1,,fixed,5.4,,,fixed
-1234,Investors Group,7,1,1,,fixed,6.5,,,fixed
-1235,Investors Group,10,1,1,,fixed,6.75,,,fixed
-1236,Meridian,1,1,1,,fixed,3.09,,,fixed
-1237,Meridian,2,1,1,,fixed,2.19,,,fixed
-329,BMO,7,2,1,1,fixed,5.4,,,fixed
-1238,Meridian,3,1,1,,fixed,2.19,,,fixed
-1239,Meridian,4,1,1,,fixed,3.89,,,fixed
-1240,Meridian,7,1,1,,fixed,2.59,,,fixed
-1241,Meridian,10,1,1,,fixed,2.74,,,fixed
-1242,Canadian Western,1,1,1,,fixed,2.69,1,,fixed
-1243,Canadian Western,2,1,1,,fixed,2.79,1,,fixed
-338,BMO,10,2,1,,fixed,4.49,,,fixed
-1244,Canadian Western,3,1,1,,fixed,3.19,1,,fixed
-1245,Canadian Western,4,1,1,,fixed,3.59,1,,fixed
-1198,motusbank,5,1,1,,variable,1.7,1,,variable
-1197,motusbank,5,2,1,,variable,1.7,1,,variable
-1246,Canadian Western,5,1,1,,fixed,4.09,1,,fixed
-676,Coast Capital,4,1,1,1,fixed,2.14,,,fixed
-361,HSBC,3,1,1,,fixed,1.89,,,fixed
-363,HSBC,3,2,1,,fixed,1.89,,,fixed
-353,HSBC,1,1,1,,fixed,2.49,,,fixed
-804,HSBC,1,2,1,,fixed,2.49,,,fixed
-1191,motusbank,1,2,1,,fixed,3.09,1,,fixed
-1192,motusbank,2,2,1,,fixed,3.19,1,,fixed
-1247,Canadian Western,5,1,1,,variable,1.9,1,,variable
-507,Equitable,5,1,1,,variable,1.45,,3.9,variable
-1193,motusbank,3,2,1,,fixed,3.49,1,,fixed
-1194,motusbank,4,2,1,,fixed,3.74,1,,fixed
-1196,motusbank,5,1,1,,fixed,4.59,1,,fixed
-1195,motusbank,5,2,1,,fixed,4.59,1,,fixed
-750,Simplii Financial,3,1,1,,fixed,1.94,,,fixed
-754,Simplii Financial,4,1,1,,fixed,2.09,,,fixed
-758,Simplii Financial,5,1,1,,fixed,2.24,,,fixed
-1225,Canada Life,1,1,1,,fixed,3.1,,,fixed
-1226,Canada Life,2,1,1,,fixed,3.2,,,fixed
-248,BMO,1,2,1,1,fixed,2.79,1,,fixed
-257,BMO,2,2,1,,fixed,2.94,1,,fixed
-577,First National,5,2,1,,fixed,2.09,1,,fixed
-142,RBC,25,2,1,,fixed,8.75,1,,fixed
-56,RBC,1,2,1,1,fixed,2.69,1,,fixed
-686,Coast Capital,5,1,1,,variable,1.3,,,variable
-572,First National,4,2,1,,fixed,2.24,,,fixed
-576,First National,5,2,1,,fixed,2.34,,2.49,fixed
-732,motusbank,5,1,1,,variable,1.7,,,variable
-733,motusbank,5,2,1,,variable,1.7,,,variable
-734,Peoples Bank,1,1,1,,fixed,1.84,,,fixed
-735,Peoples Bank,1,2,1,,fixed,1.84,,,fixed
-736,Peoples Bank,2,1,1,,fixed,1.74,,,fixed
-737,Peoples Bank,2,2,1,,fixed,1.74,,,fixed
-402,National,3,2,1,,fixed,3.45,,,fixed
-407,National,4,2,1,,fixed,4.09,,,fixed
-412,National,5,2,1,,fixed,4.79,,,fixed
-991,National,6,2,1,,fixed,5.39,,,fixed
-422,National,7,2,1,,fixed,5.39,,,fixed
-427,National,10,2,1,,fixed,5.79,,,fixed
-738,Peoples Bank,3,1,1,,fixed,1.64,,,fixed
-739,Peoples Bank,3,2,1,,fixed,1.64,,,fixed
-740,Peoples Bank,4,1,1,,fixed,1.74,,,fixed
-741,Peoples Bank,4,2,1,,fixed,1.74,,,fixed
-742,Peoples Bank,5,1,1,,fixed,2.09,,,fixed
-743,Peoples Bank,5,2,1,,fixed,2.09,,,fixed
-774,Citadel Mortgages,1,1,1,,fixed,1.74,,,fixed
-776,Citadel Mortgages,2,1,1,,fixed,1.44,,,fixed
-778,Citadel Mortgages,3,1,1,,fixed,1.39,,2.14,fixed
-780,Citadel Mortgages,4,1,1,,fixed,1.49,,,fixed
-786,Citadel Mortgages,10,1,1,,fixed,2.49,,,fixed
-782,Citadel Mortgages,5,1,1,,fixed,1.64,,2.09,fixed
-449,Desjardins,4,2,1,,fixed,4.09,,,fixed
-451,Desjardins,5,1,1,,fixed,4.74,,,fixed
-453,Desjardins,5,2,1,,fixed,4.74,,,fixed
-1024,nuborrow,5,1,1,,variable,1.55,,1.55,variable
-1170,MCAP,3,1,1,,fixed,1.54,,1.94,fixed
-594,DUCA,5,1,1,,fixed,1.84,,2.54,fixed
-592,DUCA,4,1,1,,fixed,2.39,,2.84,fixed
-1199,Coast Capital,2,1,1,,variable,2.04,,,variable
-459,Desjardins,7,1,1,,fixed,5.39,,,fixed
-1200,Coast Capital,3,1,1,,variable,1.99,,,variable
-461,Desjardins,7,2,1,,fixed,5.39,,,fixed
-1201,Coast Capital,4,1,1,,variable,2.04,,,variable
-465,Desjardins,10,2,1,,fixed,5.79,,,fixed
-996,CMLS,1,1,1,,fixed,2.09,,,fixed
-1202,Coast Capital,6,1,1,,variable,2.64,,,variable
-1012,nuborrow,1,1,1,,fixed,1.55,,1.85,fixed
-997,CMLS,1,2,1,,fixed,2.09,,,fixed
-998,CMLS,2,1,1,,fixed,1.99,,,fixed
-999,CMLS,2,2,1,,fixed,1.99,,,fixed
-1203,Coast Capital,7,1,1,,variable,2.69,,,variable
-1204,Coast Capital,8,1,1,,variable,4.14,,,variable
-1000,CMLS,3,1,1,,fixed,1.99,,,fixed
-1205,Coast Capital,9,1,1,,variable,4.19,,,variable
-1017,nuborrow,1,2,1,,fixed,1.7,,1.85,fixed
-1001,CMLS,3,2,1,,fixed,1.99,,,fixed
-1002,CMLS,4,1,1,,fixed,2.04,,,fixed
-1013,nuborrow,2,1,1,,fixed,1.55,,1.85,fixed
-1003,CMLS,4,2,1,,fixed,2.04,,,fixed
-1206,Coast Capital,10,1,1,,variable,2.94,,,variable
-1018,nuborrow,2,2,1,,fixed,1.7,,1.85,fixed
-433,Laurentian,5,1,1,,fixed,2.2,,,fixed
-434,Laurentian,5,2,1,,fixed,2.2,,,fixed
-1004,CMLS,5,1,1,,fixed,2.44,,,fixed
-1005,CMLS,5,2,1,,fixed,2.44,,,fixed
-1006,CMLS,7,1,1,,fixed,2.99,,,fixed
-1014,nuborrow,3,1,1,,fixed,1.55,,1.9,fixed
-1019,nuborrow,3,2,1,,fixed,1.7,,1.9,fixed
-1007,CMLS,7,2,1,,fixed,2.99,,,fixed
-1008,CMLS,10,1,1,,fixed,3.44,,,fixed
-455,Desjardins,5,1,1,,variable,1.75,,,variable
-1015,nuborrow,4,1,1,,fixed,1.69,,1.9,fixed
-437,Desjardins,1,2,1,,fixed,2.79,,,fixed
-441,Desjardins,2,2,1,,fixed,2.94,,,fixed
-445,Desjardins,3,2,1,,fixed,3.49,,,fixed
-1009,CMLS,10,2,1,,fixed,3.44,,,fixed
-1020,nuborrow,4,2,1,,fixed,1.75,,1.9,fixed
-1016,nuborrow,5,1,1,,fixed,1.69,,1.85,fixed
-992,CMLS,3,1,1,,variable,2.95,,,variable
-1021,nuborrow,5,2,1,,fixed,1.75,,1.85,fixed
-993,CMLS,3,2,1,,variable,2.95,,,variable
-994,CMLS,5,1,1,,variable,2.95,,,variable
-995,CMLS,5,2,1,,variable,2.95,,,variable
-580,First National,7,2,1,,fixed,2.94,,,fixed
-1022,nuborrow,3,1,1,,variable,1.55,,2.45,variable
-1023,nuborrow,3,2,1,,variable,1.55,,2.45,variable
-1207,First National,5,1,1,,variable,1.45,,,variable
-1208,First National,5,2,1,,variable,1.55,,,variable
-884,Meridian,1,2,1,,fixed,3.09,,,fixed
-885,Meridian,2,2,1,,fixed,2.19,1,,fixed
-886,Meridian,2,2,1,,fixed,2.19,,,fixed
-888,Meridian,3,2,1,,fixed,2.19,,,fixed
-890,Meridian,4,2,1,,fixed,3.89,,,fixed
-899,Meridian,5,1,1,,fixed,1.99,,,fixed
-892,Meridian,5,2,1,,fixed,1.99,,,fixed
-887,Meridian,3,2,1,,fixed,2.19,1,,fixed
-894,Meridian,7,2,1,,fixed,2.59,,,fixed
-896,Meridian,10,2,1,,fixed,2.74,,,fixed
-900,Meridian,5,1,1,,variable,1.55,,,variable
-898,Meridian,5,2,1,,variable,1.55,,,variable
-889,Meridian,4,2,1,,fixed,3.89,1,,fixed
-1178,Westworth Financial,5,1,1,,fixed,1.84,,2.13,fixed
-891,Meridian,5,2,1,,fixed,1.79,1,,fixed
-1275,Metro Mortgage,4,1,1,,fixed,1.84,,2.24,fixed
-1278,Metro Mortgage,4,2,1,,fixed,2.24,,2.24,fixed
-1276,Metro Mortgage,5,1,1,,fixed,2.04,,2.19,fixed
-893,Meridian,7,2,1,,fixed,5.45,1,,fixed
-1279,Metro Mortgage,5,2,1,,fixed,2.19,,2.19,fixed
-895,Meridian,10,2,1,,fixed,4.39,1,,fixed
-1280,Metro Mortgage,3,1,1,,variable,2.45,,2.45,variable
-1281,Metro Mortgage,3,2,1,,variable,2.45,,2.45,variable
-897,Meridian,5,2,1,,variable,1.69,1,,variable
+"id";"source";"year";"down_payment_level";"rate_type";"rate"
+9;"TD";1;1;"fixed";2.54
+10;"TD";1;2;"fixed";3.1
+11;"TD";1;3;"fixed";3.01
+12;"TD";1;4;"fixed";2.95
+13;"TD";1;5;"fixed";2.9
+14;"TD";2;1;"fixed";2.24
+15;"TD";2;2;"fixed";3.25
+16;"TD";2;3;"fixed";3.16
+17;"TD";2;4;"fixed";3.1
+18;"TD";2;5;"fixed";3.05
+19;"TD";3;1;"fixed";2.14
+20;"TD";3;2;"fixed";2.14
+21;"TD";3;3;"fixed";2.36
+22;"TD";3;4;"fixed";2.3
+23;"TD";3;5;"fixed";2.25
+24;"TD";4;1;"fixed";2.29
+25;"TD";4;2;"fixed";4.05
+26;"TD";4;3;"fixed";3.96
+27;"TD";4;4;"fixed";3.9
+28;"TD";4;5;"fixed";3.85
+29;"TD";5;1;"fixed";2.34
+30;"TD";5;2;"fixed";2.44
+31;"TD";5;3;"fixed";2.06
+32;"TD";5;4;"fixed";2.0
+33;"TD";5;5;"fixed";1.95
+34;"TD";5;1;"variable";1.55
+35;"TD";5;2;"variable";1.55
+36;"TD";5;3;"variable";1.97
+37;"TD";5;4;"variable";1.91
+38;"TD";5;5;"variable";1.86
+39;"TD";7;1;"fixed";5.35
+40;"TD";7;2;"fixed";5.66
+41;"TD";7;3;"fixed";5.57
+42;"TD";7;4;"fixed";5.51
+43;"TD";7;5;"fixed";5.46
+44;"TD";10;1;"fixed";5.6
+45;"TD";10;2;"fixed";5.91
+46;"TD";10;3;"fixed";5.82
+47;"TD";10;4;"fixed";5.76
+48;"TD";10;5;"fixed";5.71
+49;"RBC";1;1;"fixed";2.44
+50;"RBC";1;1;"fixed";2.69
+51;"RBC";1;1;"fixed";2.54
+52;"RBC";1;1;"fixed";2.69
+53;"RBC";1;2;"fixed";2.69
+54;"RBC";1;2;"fixed";2.69
+55;"RBC";1;2;"fixed";2.69
+56;"RBC";1;2;"fixed";2.69
+57;"RBC";1;3;"fixed";2.66
+58;"RBC";1;4;"fixed";2.6
+59;"RBC";1;5;"fixed";2.55
+60;"RBC";2;1;"fixed";2.09
+61;"RBC";2;1;"fixed";2.94
+62;"RBC";2;1;"fixed";2.19
+63;"RBC";2;1;"fixed";2.94
+64;"RBC";2;2;"fixed";2.94
+65;"RBC";2;2;"fixed";2.94
+66;"RBC";2;2;"fixed";2.94
+67;"RBC";2;2;"fixed";2.94
+68;"RBC";2;3;"fixed";2.31
+69;"RBC";2;4;"fixed";2.25
+70;"RBC";2;5;"fixed";2.2
+71;"RBC";3;1;"fixed";2.24
+72;"RBC";3;1;"fixed";3.45
+73;"RBC";3;1;"fixed";2.34
+74;"RBC";3;1;"fixed";3.45
+75;"RBC";3;2;"fixed";3.45
+76;"RBC";3;2;"fixed";3.45
+77;"RBC";3;2;"fixed";3.45
+78;"RBC";3;2;"fixed";3.45
+79;"RBC";3;3;"fixed";2.41
+80;"RBC";3;4;"fixed";2.35
+81;"RBC";3;5;"fixed";2.3
+82;"RBC";4;1;"fixed";2.39
+83;"RBC";4;1;"fixed";4.09
+84;"RBC";4;1;"fixed";2.49
+85;"RBC";4;1;"fixed";4.09
+86;"RBC";4;2;"fixed";4.09
+87;"RBC";4;2;"fixed";4.09
+88;"RBC";4;2;"fixed";4.09
+89;"RBC";4;2;"fixed";4.09
+90;"RBC";4;3;"fixed";2.31
+91;"RBC";4;4;"fixed";2.25
+92;"RBC";4;5;"fixed";2.2
+93;"RBC";5;1;"fixed";2.49
+94;"RBC";5;1;"fixed";4.79
+95;"RBC";5;1;"fixed";2.59
+96;"RBC";5;1;"fixed";4.79
+97;"RBC";5;2;"fixed";4.79
+98;"RBC";5;2;"fixed";4.79
+99;"RBC";5;2;"fixed";4.79
+100;"RBC";5;2;"fixed";4.79
+101;"RBC";5;3;"fixed";2.44
+102;"RBC";5;4;"fixed";2.38
+103;"RBC";5;5;"fixed";2.33
+104;"RBC";5;1;"variable";1.6
+105;"RBC";5;1;"variable";2.45
+106;"RBC";5;1;"variable";1.7
+107;"RBC";5;1;"variable";2.45
+108;"RBC";5;2;"variable";2.45
+109;"RBC";5;2;"variable";2.45
+110;"RBC";5;2;"variable";2.45
+111;"RBC";5;2;"variable";2.45
+112;"RBC";5;3;"variable";2.12
+113;"RBC";5;4;"variable";2.06
+114;"RBC";5;5;"variable";2.01
+115;"RBC";7;1;"fixed";3.19
+116;"RBC";7;1;"fixed";5.4
+117;"RBC";7;1;"fixed";3.29
+118;"RBC";7;1;"fixed";5.4
+119;"RBC";7;2;"fixed";5.4
+120;"RBC";7;2;"fixed";5.4
+121;"RBC";7;2;"fixed";5.4
+122;"RBC";7;2;"fixed";5.4
+123;"RBC";7;3;"fixed";3.31
+124;"RBC";7;4;"fixed";3.25
+125;"RBC";7;5;"fixed";3.2
+126;"RBC";10;1;"fixed";5.8
+127;"RBC";10;1;"fixed";5.8
+128;"RBC";10;1;"fixed";5.8
+129;"RBC";10;1;"fixed";5.8
+130;"RBC";10;2;"fixed";5.8
+131;"RBC";10;2;"fixed";5.8
+132;"RBC";10;2;"fixed";5.8
+133;"RBC";10;2;"fixed";5.8
+134;"RBC";10;3;"fixed";6.16
+135;"RBC";10;4;"fixed";6.11
+136;"RBC";10;5;"fixed";6.06
+137;"RBC";25;1;"fixed";8.75
+138;"RBC";25;1;"fixed";8.75
+139;"RBC";25;1;"fixed";8.75
+140;"RBC";25;1;"fixed";8.75
+141;"RBC";25;2;"fixed";8.75
+142;"RBC";25;2;"fixed";8.75
+143;"RBC";25;2;"fixed";8.75
+144;"RBC";25;2;"fixed";8.75
+185;"CIBC";1;1;"fixed";2.79
+186;"CIBC";1;1;"fixed";2.79
+187;"CIBC";1;2;"fixed";3.1
+188;"CIBC";1;2;"fixed";2.79
+189;"CIBC";1;3;"fixed";3.01
+190;"CIBC";1;4;"fixed";2.95
+191;"CIBC";1;5;"fixed";2.9
+192;"CIBC";2;1;"fixed";2.89
+193;"CIBC";2;1;"fixed";2.89
+194;"CIBC";2;2;"fixed";3.2
+195;"CIBC";2;2;"fixed";2.89
+196;"CIBC";2;3;"fixed";3.11
+197;"CIBC";2;4;"fixed";3.05
+198;"CIBC";2;5;"fixed";3.0
+199;"CIBC";3;1;"fixed";3.49
+200;"CIBC";3;1;"fixed";3.49
+201;"CIBC";3;2;"fixed";3.8
+202;"CIBC";3;2;"fixed";3.49
+203;"CIBC";3;3;"fixed";3.71
+204;"CIBC";3;4;"fixed";3.65
+205;"CIBC";3;5;"fixed";3.6
+206;"CIBC";3;1;"variable";2.45
+207;"CIBC";3;2;"variable";2.45
+208;"CIBC";4;1;"fixed";4.24
+209;"CIBC";4;1;"fixed";4.24
+210;"CIBC";4;2;"fixed";4.55
+211;"CIBC";4;2;"fixed";4.24
+212;"CIBC";4;3;"fixed";4.46
+213;"CIBC";4;4;"fixed";4.4
+214;"CIBC";4;5;"fixed";4.35
+215;"CIBC";5;1;"fixed";2.37
+216;"CIBC";5;1;"fixed";4.79
+217;"CIBC";5;2;"fixed";2.44
+218;"CIBC";5;2;"fixed";4.79
+219;"CIBC";5;3;"fixed";2.32
+220;"CIBC";5;4;"fixed";2.26
+221;"CIBC";5;5;"fixed";2.21
+222;"CIBC";5;1;"variable";1.54
+223;"CIBC";5;2;"variable";1.6
+224;"CIBC";5;3;"variable";2.67
+225;"CIBC";5;4;"variable";2.61
+226;"CIBC";5;5;"variable";2.56
+227;"CIBC";7;1;"fixed";2.94
+228;"CIBC";7;1;"fixed";5.6
+229;"CIBC";7;2;"fixed";2.94
+230;"CIBC";7;2;"fixed";5.6
+231;"CIBC";7;3;"fixed";2.75
+232;"CIBC";7;4;"fixed";2.69
+233;"CIBC";7;5;"fixed";2.64
+234;"CIBC";10;1;"fixed";6.09
+235;"CIBC";10;1;"fixed";6.09
+236;"CIBC";10;2;"fixed";6.4
+237;"CIBC";10;2;"fixed";6.09
+238;"CIBC";10;3;"fixed";6.31
+239;"CIBC";10;4;"fixed";6.25
+240;"CIBC";10;5;"fixed";6.2
+241;"BMO";1;1;"fixed";2.79
+242;"BMO";1;1;"fixed";2.79
+243;"BMO";1;1;"fixed";2.79
+244;"BMO";1;1;"fixed";2.79
+245;"BMO";1;2;"fixed";2.79
+246;"BMO";1;2;"fixed";2.79
+247;"BMO";1;2;"fixed";2.79
+248;"BMO";1;2;"fixed";2.79
+249;"BMO";1;3;"fixed";3.01
+250;"BMO";1;4;"fixed";2.95
+251;"BMO";1;5;"fixed";2.9
+252;"BMO";2;1;"fixed";2.94
+253;"BMO";2;1;"fixed";2.94
+254;"BMO";2;1;"fixed";2.94
+255;"BMO";2;1;"fixed";2.94
+256;"BMO";2;2;"fixed";2.94
+257;"BMO";2;2;"fixed";2.94
+258;"BMO";2;2;"fixed";2.94
+259;"BMO";2;2;"fixed";2.94
+260;"BMO";2;3;"fixed";3.16
+261;"BMO";2;4;"fixed";3.1
+262;"BMO";2;5;"fixed";3.05
+264;"BMO";3;1;"fixed";3.49
+266;"BMO";3;1;"fixed";3.49
+267;"BMO";3;2;"fixed";3.49
+268;"BMO";3;2;"fixed";3.49
+269;"BMO";3;2;"fixed";3.49
+270;"BMO";3;2;"fixed";3.49
+271;"BMO";3;3;"fixed";2.36
+272;"BMO";3;4;"fixed";2.3
+273;"BMO";3;5;"fixed";2.25
+274;"BMO";3;1;"variable";4.15
+275;"BMO";3;1;"variable";4.15
+276;"BMO";3;1;"variable";4.15
+277;"BMO";3;1;"variable";4.15
+278;"BMO";3;2;"variable";4.15
+279;"BMO";3;2;"variable";4.15
+280;"BMO";3;2;"variable";4.15
+281;"BMO";3;2;"variable";4.15
+282;"BMO";4;1;"fixed";4.09
+283;"BMO";4;1;"fixed";4.09
+285;"BMO";4;1;"fixed";4.09
+286;"BMO";4;2;"fixed";4.09
+287;"BMO";4;2;"fixed";4.09
+288;"BMO";4;2;"fixed";4.09
+289;"BMO";4;2;"fixed";4.09
+290;"BMO";4;3;"fixed";4.31
+291;"BMO";4;4;"fixed";4.25
+292;"BMO";4;5;"fixed";4.2
+293;"BMO";5;1;"fixed";2.34
+294;"BMO";5;1;"fixed";3.99
+296;"BMO";5;1;"fixed";4.79
+297;"BMO";5;2;"fixed";3.99
+298;"BMO";5;2;"fixed";3.99
+299;"BMO";5;2;"fixed";4.79
+300;"BMO";5;2;"fixed";4.79
+301;"BMO";5;3;"fixed";2.15
+302;"BMO";5;4;"fixed";2.09
+303;"BMO";5;5;"fixed";2.04
+305;"BMO";5;1;"variable";2.45
+307;"BMO";5;1;"variable";2.45
+308;"BMO";5;2;"variable";2.45
+309;"BMO";5;2;"variable";2.45
+310;"BMO";5;2;"variable";2.45
+311;"BMO";5;2;"variable";2.45
+312;"BMO";5;3;"variable";2.11
+313;"BMO";5;4;"variable";2.05
+314;"BMO";5;5;"variable";2.0
+316;"BMO";6;1;"fixed";5.24
+318;"BMO";6;1;"fixed";5.24
+319;"BMO";6;2;"fixed";5.24
+320;"BMO";6;2;"fixed";5.24
+321;"BMO";6;2;"fixed";5.24
+322;"BMO";6;2;"fixed";5.24
+324;"BMO";7;1;"fixed";5.4
+326;"BMO";7;1;"fixed";5.4
+327;"BMO";7;2;"fixed";5.4
+328;"BMO";7;2;"fixed";5.4
+329;"BMO";7;2;"fixed";5.4
+330;"BMO";7;2;"fixed";5.4
+331;"BMO";7;3;"fixed";5.62
+332;"BMO";7;4;"fixed";5.56
+333;"BMO";7;5;"fixed";5.51
+334;"BMO";10;1;"fixed";4.49
+335;"BMO";10;1;"fixed";4.49
+337;"BMO";10;1;"fixed";5.8
+338;"BMO";10;2;"fixed";4.49
+339;"BMO";10;2;"fixed";4.49
+340;"BMO";10;2;"fixed";5.8
+341;"BMO";10;2;"fixed";5.8
+342;"BMO";10;3;"fixed";6.02
+343;"BMO";10;4;"fixed";5.96
+344;"BMO";10;5;"fixed";5.91
+345;"BMO";18;1;"fixed";8.5
+346;"BMO";18;1;"fixed";8.5
+347;"BMO";18;1;"fixed";8.5
+348;"BMO";18;1;"fixed";8.5
+349;"BMO";18;2;"fixed";8.5
+350;"BMO";18;2;"fixed";8.5
+351;"BMO";18;2;"fixed";8.5
+352;"BMO";18;2;"fixed";8.5
+353;"HSBC";1;1;"fixed";2.49
+354;"HSBC";1;1;"fixed";2.49
+355;"HSBC";2;1;"fixed";1.74
+356;"HSBC";2;1;"fixed";3.04
+357;"HSBC";2;2;"fixed";1.74
+358;"HSBC";2;3;"fixed";2.55
+359;"HSBC";2;4;"fixed";2.5
+360;"HSBC";2;5;"fixed";2.45
+361;"HSBC";3;1;"fixed";1.89
+362;"HSBC";3;1;"fixed";3.44
+363;"HSBC";3;2;"fixed";1.89
+364;"HSBC";3;3;"fixed";2.6
+365;"HSBC";3;4;"fixed";2.55
+366;"HSBC";3;5;"fixed";2.5
+367;"HSBC";3;1;"variable";3.95
+368;"HSBC";3;1;"variable";3.95
+369;"HSBC";4;1;"fixed";3.94
+370;"HSBC";4;1;"fixed";3.94
+371;"HSBC";5;1;"fixed";2.19
+372;"HSBC";5;1;"fixed";4.59
+373;"HSBC";5;2;"fixed";2.19
+374;"HSBC";5;3;"fixed";2.65
+375;"HSBC";5;4;"fixed";2.6
+376;"HSBC";5;5;"fixed";2.55
+377;"HSBC";5;1;"variable";1.29
+378;"HSBC";5;1;"variable";2.65
+379;"HSBC";5;2;"variable";1.29
+380;"HSBC";5;3;"variable";2.46
+381;"HSBC";5;4;"variable";2.41
+382;"HSBC";5;5;"variable";2.36
+383;"HSBC";7;1;"fixed";5.64
+384;"HSBC";7;1;"fixed";5.64
+385;"HSBC";10;1;"fixed";2.74
+386;"HSBC";10;1;"fixed";5.99
+387;"HSBC";10;2;"fixed";2.74
+388;"HSBC";10;3;"fixed";3.45
+389;"HSBC";10;4;"fixed";3.4
+390;"HSBC";10;5;"fixed";3.35
+391;"National";1;1;"fixed";2.69
+392;"National";1;2;"fixed";2.69
+393;"National";1;3;"fixed";2.91
+394;"National";1;4;"fixed";2.85
+395;"National";1;5;"fixed";2.8
+396;"National";2;1;"fixed";2.94
+397;"National";2;2;"fixed";2.94
+398;"National";2;3;"fixed";3.16
+399;"National";2;4;"fixed";3.1
+400;"National";2;5;"fixed";3.05
+401;"National";3;1;"fixed";3.45
+402;"National";3;2;"fixed";3.45
+403;"National";3;3;"fixed";3.67
+404;"National";3;4;"fixed";3.61
+405;"National";3;5;"fixed";3.56
+406;"National";4;1;"fixed";2.19
+407;"National";4;2;"fixed";4.09
+408;"National";4;3;"fixed";2.26
+409;"National";4;4;"fixed";2.2
+410;"National";4;5;"fixed";2.15
+411;"National";5;1;"fixed";2.24
+412;"National";5;2;"fixed";4.79
+413;"National";5;3;"fixed";2.31
+414;"National";5;4;"fixed";2.25
+415;"National";5;5;"fixed";2.2
+416;"National";5;1;"variable";2.45
+417;"National";5;2;"variable";2.76
+418;"National";5;3;"variable";2.67
+419;"National";5;4;"variable";2.61
+420;"National";5;5;"variable";2.56
+421;"National";7;1;"fixed";5.39
+422;"National";7;2;"fixed";5.39
+423;"National";7;3;"fixed";5.61
+424;"National";7;4;"fixed";5.55
+425;"National";7;5;"fixed";5.5
+426;"National";10;1;"fixed";5.79
+427;"National";10;2;"fixed";5.79
+428;"National";10;3;"fixed";6.01
+429;"National";10;4;"fixed";5.95
+430;"National";10;5;"fixed";5.9
+431;"Manulife";5;1;"fixed";2.49
+432;"Manulife";5;2;"fixed";2.49
+433;"Laurentian";5;1;"fixed";2.2
+434;"Laurentian";5;2;"fixed";2.2
+435;"Desjardins";1;1;"fixed";2.79
+436;"Desjardins";1;1;"fixed";6.95
+437;"Desjardins";1;2;"fixed";2.79
+438;"Desjardins";1;2;"fixed";6.95
+439;"Desjardins";2;1;"fixed";2.94
+440;"Desjardins";2;1;"fixed";3.04
+441;"Desjardins";2;2;"fixed";2.94
+442;"Desjardins";2;2;"fixed";3.04
+443;"Desjardins";3;1;"fixed";3.49
+444;"Desjardins";3;1;"fixed";3.54
+445;"Desjardins";3;2;"fixed";3.49
+446;"Desjardins";3;2;"fixed";3.54
+447;"Desjardins";4;1;"fixed";4.09
+448;"Desjardins";4;1;"fixed";4.09
+449;"Desjardins";4;2;"fixed";4.09
+450;"Desjardins";4;2;"fixed";4.09
+451;"Desjardins";5;1;"fixed";4.74
+452;"Desjardins";5;1;"fixed";4.74
+453;"Desjardins";5;2;"fixed";4.74
+454;"Desjardins";5;2;"fixed";4.74
+455;"Desjardins";5;1;"variable";1.75
+456;"Desjardins";5;1;"variable";2.45
+457;"Desjardins";5;2;"variable";1.75
+458;"Desjardins";5;2;"variable";2.45
+459;"Desjardins";7;1;"fixed";5.39
+460;"Desjardins";7;1;"fixed";5.39
+461;"Desjardins";7;2;"fixed";5.39
+462;"Desjardins";7;2;"fixed";5.39
+463;"Desjardins";10;1;"fixed";5.79
+464;"Desjardins";10;1;"fixed";5.79
+465;"Desjardins";10;2;"fixed";5.79
+466;"Desjardins";10;2;"fixed";5.79
+487;"Equitable";1;1;"fixed";2.74
+488;"Equitable";1;1;"fixed";2.74
+489;"Equitable";1;2;"fixed";2.99
+490;"Equitable";1;2;"fixed";2.74
+491;"Equitable";2;1;"fixed";2.24
+492;"Equitable";2;1;"fixed";2.74
+493;"Equitable";2;2;"fixed";2.24
+494;"Equitable";2;2;"fixed";2.74
+495;"Equitable";3;1;"fixed";2.24
+496;"Equitable";3;1;"fixed";2.99
+497;"Equitable";3;2;"fixed";2.24
+498;"Equitable";3;2;"fixed";2.99
+499;"Equitable";4;1;"fixed";2.24
+500;"Equitable";4;1;"fixed";4.09
+501;"Equitable";4;2;"fixed";2.24
+502;"Equitable";4;2;"fixed";4.09
+503;"Equitable";5;1;"fixed";2.04
+504;"Equitable";5;1;"fixed";3.59
+505;"Equitable";5;2;"fixed";2.04
+506;"Equitable";5;2;"fixed";3.59
+507;"Equitable";5;1;"variable";1.45
+508;"Tangerine";1;1;"fixed";2.79
+509;"Tangerine";1;2;"fixed";2.79
+510;"Tangerine";2;1;"fixed";1.78
+511;"Tangerine";2;2;"fixed";1.78
+512;"Tangerine";3;1;"fixed";1.89
+513;"Tangerine";3;2;"fixed";1.89
+514;"Tangerine";4;1;"fixed";2.04
+515;"Tangerine";4;2;"fixed";2.04
+516;"Tangerine";5;1;"fixed";2.14
+517;"Tangerine";5;2;"fixed";2.14
+518;"Tangerine";5;1;"variable";1.45
+519;"Tangerine";5;2;"variable";1.45
+520;"Tangerine";7;1;"fixed";2.64
+521;"Tangerine";7;2;"fixed";2.64
+522;"Tangerine";10;1;"fixed";3.09
+523;"Tangerine";10;2;"fixed";3.09
+524;"MCAP";5;1;"fixed";2.34
+525;"MCAP";5;2;"fixed";2.34
+526;"Scotiabank";1;1;"fixed";2.79
+527;"Scotiabank";1;1;"fixed";2.79
+528;"Scotiabank";1;2;"fixed";2.79
+529;"Scotiabank";1;2;"fixed";2.79
+530;"Scotiabank";2;1;"fixed";2.34
+531;"Scotiabank";2;1;"fixed";2.89
+532;"Scotiabank";2;2;"fixed";2.89
+533;"Scotiabank";2;2;"fixed";2.89
+534;"Scotiabank";3;1;"fixed";2.24
+535;"Scotiabank";3;1;"fixed";3.49
+536;"Scotiabank";3;2;"fixed";2.24
+537;"Scotiabank";3;2;"fixed";3.49
+538;"Scotiabank";3;1;"variable";3.2
+539;"Scotiabank";3;2;"variable";3.2
+540;"Scotiabank";4;1;"fixed";2.39
+541;"Scotiabank";4;1;"fixed";3.89
+542;"Scotiabank";4;2;"fixed";3.89
+543;"Scotiabank";4;2;"fixed";3.89
+544;"Scotiabank";5;1;"fixed";2.29
+545;"Scotiabank";5;1;"fixed";4.79
+546;"Scotiabank";5;2;"fixed";2.49
+547;"Scotiabank";5;2;"fixed";4.79
+548;"Scotiabank";5;1;"variable";1.75
+549;"Scotiabank";5;2;"variable";1.75
+550;"Scotiabank";7;1;"fixed";2.84
+551;"Scotiabank";7;1;"fixed";5.29
+552;"Scotiabank";7;2;"fixed";5.29
+553;"Scotiabank";7;2;"fixed";5.29
+554;"Scotiabank";10;1;"fixed";3.24
+555;"Scotiabank";10;1;"fixed";5.69
+556;"Scotiabank";10;2;"fixed";5.69
+557;"Scotiabank";10;2;"fixed";5.69
+558;"First National";1;1;"fixed";1.99
+559;"First National";1;1;"fixed";1.99
+560;"First National";1;2;"fixed";2.54
+561;"First National";1;2;"fixed";1.99
+562;"First National";2;1;"fixed";1.99
+563;"First National";2;1;"fixed";1.99
+564;"First National";2;2;"fixed";2.24
+565;"First National";2;2;"fixed";1.99
+566;"First National";3;1;"fixed";1.99
+567;"First National";3;1;"fixed";1.99
+568;"First National";3;2;"fixed";2.14
+569;"First National";3;2;"fixed";1.99
+570;"First National";4;1;"fixed";1.99
+571;"First National";4;1;"fixed";1.99
+572;"First National";4;2;"fixed";2.24
+573;"First National";4;2;"fixed";1.99
+574;"First National";5;1;"fixed";2.09
+575;"First National";5;1;"fixed";2.09
+576;"First National";5;2;"fixed";2.34
+577;"First National";5;2;"fixed";2.09
+578;"First National";7;1;"fixed";2.94
+579;"First National";7;1;"fixed";2.84
+580;"First National";7;2;"fixed";2.94
+581;"First National";10;1;"fixed";3.3
+582;"First National";10;1;"fixed";3.15
+583;"First National";10;2;"fixed";3.3
+584;"DUCA";1;1;"fixed";2.69
+585;"DUCA";1;2;"fixed";2.89
+586;"DUCA";2;1;"fixed";2.59
+587;"DUCA";2;2;"fixed";2.69
+588;"DUCA";3;1;"fixed";2.49
+589;"DUCA";3;2;"fixed";2.69
+590;"DUCA";3;1;"variable";3.45
+591;"DUCA";3;2;"variable";3.45
+592;"DUCA";4;1;"fixed";2.39
+593;"DUCA";4;2;"fixed";2.79
+594;"DUCA";5;1;"fixed";1.84
+595;"DUCA";5;2;"fixed";2.49
+596;"DUCA";5;1;"variable";2.95
+597;"DUCA";5;2;"variable";3.15
+598;"DUCA";6;1;"fixed";4.59
+599;"DUCA";6;2;"fixed";4.59
+600;"DUCA";7;1;"fixed";4.79
+601;"DUCA";7;2;"fixed";4.79
+616;"Alterna Savings";1;1;"fixed";1.79
+617;"Alterna Savings";1;1;"fixed";7.0
+618;"Alterna Savings";1;2;"fixed";1.79
+619;"Alterna Savings";1;2;"fixed";7.0
+620;"Alterna Savings";2;1;"fixed";1.54
+621;"Alterna Savings";2;1;"fixed";1.89
+622;"Alterna Savings";2;2;"fixed";1.54
+623;"Alterna Savings";2;2;"fixed";1.89
+624;"Alterna Savings";3;1;"fixed";1.79
+625;"Alterna Savings";3;1;"fixed";1.89
+626;"Alterna Savings";3;2;"fixed";1.79
+627;"Alterna Savings";3;2;"fixed";1.89
+628;"Alterna Savings";3;1;"variable";3.55
+629;"Alterna Savings";3;1;"variable";4.15
+630;"Alterna Savings";3;2;"variable";3.55
+631;"Alterna Savings";3;2;"variable";4.15
+632;"Alterna Savings";4;1;"fixed";1.84
+633;"Alterna Savings";4;1;"fixed";1.89
+634;"Alterna Savings";4;2;"fixed";1.84
+635;"Alterna Savings";4;2;"fixed";1.89
+637;"Alterna Savings";5;1;"fixed";5.44
+638;"Alterna Savings";5;2;"fixed";1.65
+639;"Alterna Savings";5;2;"fixed";5.44
+640;"Alterna Savings";5;1;"variable";2.95
+641;"Alterna Savings";5;1;"variable";3.65
+642;"Alterna Savings";5;2;"variable";2.95
+643;"Alterna Savings";5;2;"variable";3.65
+644;"Alterna Savings";7;1;"fixed";5.55
+645;"Alterna Savings";7;1;"fixed";5.55
+646;"Alterna Savings";7;2;"fixed";5.55
+647;"Alterna Savings";7;2;"fixed";5.55
+648;"Alterna Savings";10;1;"fixed";5.95
+649;"Alterna Savings";10;1;"fixed";5.95
+650;"Alterna Savings";10;2;"fixed";5.95
+651;"Alterna Savings";10;2;"fixed";5.95
+652;"Coast Capital";1;1;"fixed";2.29
+653;"Coast Capital";1;1;"fixed";3.09
+654;"Coast Capital";1;1;"fixed";2.39
+655;"Coast Capital";1;2;"fixed";3.09
+656;"Coast Capital";1;2;"fixed";3.09
+657;"Coast Capital";1;2;"fixed";2.34
+658;"Coast Capital";1;1;"variable";2.29
+659;"Coast Capital";1;1;"variable";6.6
+660;"Coast Capital";1;2;"variable";6.6
+661;"Coast Capital";1;2;"variable";6.6
+662;"Coast Capital";2;1;"fixed";2.04
+663;"Coast Capital";2;1;"fixed";3.12
+664;"Coast Capital";2;1;"fixed";2.14
+665;"Coast Capital";2;2;"fixed";3.12
+666;"Coast Capital";2;2;"fixed";3.12
+667;"Coast Capital";2;2;"fixed";2.09
+668;"Coast Capital";3;1;"fixed";1.99
+669;"Coast Capital";3;1;"fixed";3.59
+670;"Coast Capital";3;1;"fixed";2.09
+671;"Coast Capital";3;2;"fixed";3.59
+672;"Coast Capital";3;2;"fixed";3.59
+673;"Coast Capital";3;2;"fixed";1.99
+674;"Coast Capital";4;1;"fixed";2.04
+675;"Coast Capital";4;1;"fixed";4.08
+676;"Coast Capital";4;1;"fixed";2.14
+677;"Coast Capital";4;2;"fixed";4.08
+678;"Coast Capital";4;2;"fixed";4.08
+679;"Coast Capital";4;2;"fixed";1.89
+680;"Coast Capital";5;1;"fixed";2.04
+681;"Coast Capital";5;1;"fixed";4.79
+682;"Coast Capital";5;1;"fixed";2.24
+683;"Coast Capital";5;2;"fixed";4.79
+684;"Coast Capital";5;2;"fixed";4.79
+685;"Coast Capital";5;2;"fixed";1.94
+686;"Coast Capital";5;1;"variable";1.3
+687;"Coast Capital";5;1;"variable";2.45
+688;"Coast Capital";5;1;"variable";1.7
+689;"Coast Capital";5;2;"variable";2.45
+690;"Coast Capital";5;2;"variable";2.45
+691;"Coast Capital";5;2;"variable";1.7
+692;"Coast Capital";6;1;"fixed";2.64
+693;"Coast Capital";6;1;"fixed";5.24
+694;"Coast Capital";6;1;"fixed";2.74
+695;"Coast Capital";6;2;"fixed";5.24
+696;"Coast Capital";6;2;"fixed";5.24
+697;"Coast Capital";6;2;"fixed";2.59
+698;"Coast Capital";7;1;"fixed";2.69
+699;"Coast Capital";7;1;"fixed";5.49
+700;"Coast Capital";7;1;"fixed";2.79
+701;"Coast Capital";7;2;"fixed";5.49
+702;"Coast Capital";7;2;"fixed";5.49
+703;"Coast Capital";7;2;"fixed";2.54
+704;"Coast Capital";8;1;"fixed";4.14
+705;"Coast Capital";8;1;"fixed";5.58
+706;"Coast Capital";8;1;"fixed";4.24
+707;"Coast Capital";8;2;"fixed";5.58
+708;"Coast Capital";8;2;"fixed";5.58
+709;"Coast Capital";8;2;"fixed";4.24
+710;"Coast Capital";9;1;"fixed";4.19
+711;"Coast Capital";9;1;"fixed";5.75
+712;"Coast Capital";9;1;"fixed";4.29
+713;"Coast Capital";9;2;"fixed";5.75
+714;"Coast Capital";9;2;"fixed";5.75
+715;"Coast Capital";9;2;"fixed";4.29
+716;"Coast Capital";10;1;"fixed";2.94
+717;"Coast Capital";10;1;"fixed";5.84
+718;"Coast Capital";10;1;"fixed";3.04
+719;"Coast Capital";10;2;"fixed";5.84
+720;"Coast Capital";10;2;"fixed";5.84
+721;"Coast Capital";10;2;"fixed";2.84
+722;"motusbank";1;1;"fixed";1.89
+723;"motusbank";1;2;"fixed";1.89
+724;"motusbank";2;1;"fixed";1.89
+725;"motusbank";2;2;"fixed";1.89
+726;"motusbank";3;1;"fixed";1.89
+727;"motusbank";3;2;"fixed";1.89
+728;"motusbank";4;1;"fixed";1.89
+729;"motusbank";4;2;"fixed";1.89
+730;"motusbank";5;1;"fixed";1.89
+731;"motusbank";5;2;"fixed";1.89
+732;"motusbank";5;1;"variable";1.7
+733;"motusbank";5;2;"variable";1.7
+734;"Peoples Bank";1;1;"fixed";1.84
+735;"Peoples Bank";1;2;"fixed";1.84
+736;"Peoples Bank";2;1;"fixed";1.74
+737;"Peoples Bank";2;2;"fixed";1.74
+738;"Peoples Bank";3;1;"fixed";1.64
+739;"Peoples Bank";3;2;"fixed";1.64
+740;"Peoples Bank";4;1;"fixed";1.74
+741;"Peoples Bank";4;2;"fixed";1.74
+742;"Peoples Bank";5;1;"fixed";2.09
+743;"Peoples Bank";5;2;"fixed";2.09
+744;"Peoples Bank";5;1;"variable";1.45
+745;"Peoples Bank";5;2;"variable";1.45
+746;"Simplii Financial";2;1;"fixed";1.99
+747;"Simplii Financial";2;1;"fixed";2.01
+748;"Simplii Financial";2;2;"fixed";1.99
+749;"Simplii Financial";2;2;"fixed";2.89
+750;"Simplii Financial";3;1;"fixed";1.94
+751;"Simplii Financial";3;1;"fixed";1.99
+752;"Simplii Financial";3;2;"fixed";1.94
+753;"Simplii Financial";3;2;"fixed";3.64
+754;"Simplii Financial";4;1;"fixed";2.09
+755;"Simplii Financial";4;1;"fixed";1.94
+756;"Simplii Financial";4;2;"fixed";2.09
+757;"Simplii Financial";4;2;"fixed";4.29
+758;"Simplii Financial";5;1;"fixed";2.24
+759;"Simplii Financial";5;1;"fixed";1.74
+760;"Simplii Financial";5;2;"fixed";2.24
+761;"Simplii Financial";5;2;"fixed";4.74
+762;"Simplii Financial";5;1;"variable";1.45
+763;"Simplii Financial";5;1;"variable";1.7
+764;"Simplii Financial";5;2;"variable";1.45
+765;"Simplii Financial";5;2;"variable";2.45
+766;"Simplii Financial";7;1;"fixed";5.39
+767;"Simplii Financial";7;1;"fixed";5.39
+768;"Simplii Financial";7;2;"fixed";5.39
+769;"Simplii Financial";7;2;"fixed";5.39
+770;"Simplii Financial";10;1;"fixed";6.25
+771;"Simplii Financial";10;1;"fixed";6.25
+772;"Simplii Financial";10;2;"fixed";6.25
+773;"Simplii Financial";10;2;"fixed";6.25
+774;"Citadel Mortgages";1;1;"fixed";1.74
+775;"Citadel Mortgages";1;2;"fixed";1.94
+776;"Citadel Mortgages";2;1;"fixed";1.44
+777;"Citadel Mortgages";2;2;"fixed";1.74
+778;"Citadel Mortgages";3;1;"fixed";1.39
+779;"Citadel Mortgages";3;2;"fixed";1.64
+780;"Citadel Mortgages";4;1;"fixed";1.49
+781;"Citadel Mortgages";4;2;"fixed";1.79
+782;"Citadel Mortgages";5;1;"fixed";1.64
+783;"Citadel Mortgages";5;2;"fixed";2.05
+784;"Citadel Mortgages";5;1;"variable";1.15
+785;"Citadel Mortgages";5;2;"variable";1.25
+786;"Citadel Mortgages";10;1;"fixed";2.49
+787;"Citadel Mortgages";10;2;"fixed";2.64
+788;"Citadel Mortgages";3;1;"variable";2.35
+792;"Citadel Mortgages";3;2;"variable";2.65
+803;"HSBC";1;2;"fixed";2.49
+804;"HSBC";1;2;"fixed";2.49
+805;"HSBC";2;2;"fixed";3.04
+806;"HSBC";3;2;"fixed";3.44
+807;"HSBC";4;2;"fixed";3.94
+808;"HSBC";4;2;"fixed";3.94
+809;"HSBC";5;2;"fixed";4.59
+810;"HSBC";7;2;"fixed";5.64
+811;"HSBC";7;2;"fixed";5.64
+812;"HSBC";10;2;"fixed";5.99
+813;"HSBC";3;2;"variable";3.95
+814;"HSBC";3;2;"variable";3.95
+815;"HSBC";5;2;"variable";2.65
+816;"Canada Life";3;2;"fixed";2.05
+817;"Canada Life";3;1;"fixed";1.9
+818;"Canada Life";4;2;"fixed";2.1
+819;"Canada Life";4;1;"fixed";1.95
+820;"Canada Life";5;2;"fixed";2.17
+821;"Canada Life";5;1;"fixed";2.02
+822;"Canada Life";5;1;"variable";1.48
+823;"Canada Life";5;2;"variable";1.48
+824;"Canada Life";1;2;"fixed";3.1
+825;"Canada Life";2;2;"fixed";3.2
+826;"Canada Life";7;2;"fixed";6.5
+827;"Canada Life";10;2;"fixed";6.75
+828;"Investors Group";1;2;"fixed";3.1
+829;"Investors Group";1;2;"fixed";3.1
+830;"Investors Group";2;2;"fixed";3.2
+831;"Investors Group";2;2;"fixed";3.2
+832;"Investors Group";3;2;"fixed";3.65
+833;"Investors Group";3;2;"fixed";3.65
+834;"Investors Group";4;2;"fixed";4.24
+835;"Investors Group";4;2;"fixed";4.24
+836;"Investors Group";5;2;"fixed";4.79
+837;"Investors Group";5;2;"fixed";4.79
+838;"Investors Group";7;2;"fixed";6.5
+839;"Investors Group";7;2;"fixed";6.5
+840;"Investors Group";10;2;"fixed";6.75
+841;"Investors Group";10;2;"fixed";6.75
+842;"Investors Group";5;1;"variable";2.45
+843;"Investors Group";5;2;"variable";2.45
+844;"Investors Group";5;1;"fixed";4.79
+845;"First Ontario";5;1;"fixed";2.09
+846;"First Ontario";5;1;"fixed";2.24
+847;"First Ontario";1;1;"fixed";2.44
+848;"First Ontario";1;1;"fixed";2.44
+849;"First Ontario";2;1;"fixed";2.09
+850;"First Ontario";2;1;"fixed";2.24
+851;"First Ontario";3;1;"fixed";2.09
+852;"First Ontario";3;1;"fixed";2.24
+853;"First Ontario";4;1;"fixed";2.09
+854;"First Ontario";4;1;"fixed";2.24
+855;"First Ontario";7;1;"fixed";2.69
+856;"First Ontario";7;1;"fixed";2.84
+857;"Canadian Western";1;2;"fixed";2.69
+858;"Canadian Western";1;2;"fixed";2.09
+859;"Canadian Western";1;1;"fixed";2.09
+860;"Canadian Western";2;2;"fixed";2.79
+861;"Canadian Western";2;2;"fixed";2.04
+862;"Canadian Western";2;1;"fixed";2.04
+863;"Canadian Western";3;2;"fixed";3.19
+864;"Canadian Western";3;2;"fixed";1.94
+865;"Canadian Western";3;1;"fixed";1.94
+866;"Canadian Western";4;2;"fixed";3.59
+867;"Canadian Western";4;2;"fixed";2.14
+868;"Canadian Western";4;1;"fixed";2.14
+869;"Canadian Western";5;2;"fixed";4.09
+870;"Canadian Western";5;2;"fixed";2.14
+871;"Canadian Western";5;1;"fixed";2.14
+872;"Canadian Western";5;2;"variable";1.9
+873;"Canadian Western";5;2;"variable";1.9
+874;"Citadel Mortgages";7;1;"fixed";2.14
+883;"Meridian";1;2;"fixed";3.09
+884;"Meridian";1;2;"fixed";3.09
+885;"Meridian";2;2;"fixed";2.19
+886;"Meridian";2;2;"fixed";2.19
+887;"Meridian";3;2;"fixed";2.19
+888;"Meridian";3;2;"fixed";2.19
+889;"Meridian";4;2;"fixed";3.89
+890;"Meridian";4;2;"fixed";3.89
+891;"Meridian";5;2;"fixed";1.79
+892;"Meridian";5;2;"fixed";1.99
+893;"Meridian";7;2;"fixed";5.45
+894;"Meridian";7;2;"fixed";2.59
+895;"Meridian";10;2;"fixed";4.39
+896;"Meridian";10;2;"fixed";2.74
+897;"Meridian";5;2;"variable";1.69
+898;"Meridian";5;2;"variable";1.55
+899;"Meridian";5;1;"fixed";1.99
+900;"Meridian";5;1;"variable";1.55
+905;"TD";1;1;"fixed";2.79
+906;"TD";2;1;"fixed";2.94
+907;"TD";3;1;"fixed";3.49
+908;"TD";4;1;"fixed";3.74
+909;"TD";5;1;"fixed";4.59
+910;"TD";6;1;"fixed";5.24
+911;"TD";7;1;"fixed";5.35
+912;"TD";10;1;"fixed";5.6
+926;"CIBC";3;1;"variable";2.45
+928;"CIBC";5;1;"variable";2.45
+955;"BMO";3;1;"fixed";2.24
+956;"BMO";3;1;"fixed";3.49
+958;"BMO";4;1;"fixed";4.09
+960;"BMO";5;1;"fixed";4.79
+962;"BMO";6;1;"fixed";5.24
+963;"BMO";6;1;"fixed";5.24
+964;"BMO";7;1;"fixed";5.4
+965;"BMO";7;1;"fixed";5.4
+967;"BMO";10;1;"fixed";5.8
+969;"BMO";5;1;"variable";1.55
+970;"BMO";5;1;"variable";2.45
+971;"TD";1;2;"fixed";2.79
+972;"TD";2;2;"fixed";2.94
+973;"TD";3;2;"fixed";3.49
+974;"TD";4;2;"fixed";3.74
+975;"TD";5;2;"fixed";4.59
+976;"TD";6;2;"fixed";5.24
+977;"TD";7;2;"fixed";5.35
+978;"TD";10;2;"fixed";5.6
+979;"CIBC";3;2;"variable";2.45
+980;"CIBC";5;2;"variable";2.45
+991;"National";6;2;"fixed";5.39
+992;"CMLS";3;1;"variable";2.95
+993;"CMLS";3;2;"variable";2.95
+994;"CMLS";5;1;"variable";2.95
+995;"CMLS";5;2;"variable";2.95
+996;"CMLS";1;1;"fixed";2.09
+997;"CMLS";1;2;"fixed";2.09
+998;"CMLS";2;1;"fixed";1.99
+999;"CMLS";2;2;"fixed";1.99
+1000;"CMLS";3;1;"fixed";1.99
+1001;"CMLS";3;2;"fixed";1.99
+1002;"CMLS";4;1;"fixed";2.04
+1003;"CMLS";4;2;"fixed";2.04
+1004;"CMLS";5;1;"fixed";2.44
+1005;"CMLS";5;2;"fixed";2.44
+1006;"CMLS";7;1;"fixed";2.99
+1007;"CMLS";7;2;"fixed";2.99
+1008;"CMLS";10;1;"fixed";3.44
+1009;"CMLS";10;2;"fixed";3.44
+1010;"CMLS";6;1;"fixed";2.99
+1011;"CMLS";6;2;"fixed";2.99
+1012;"nuborrow";1;1;"fixed";1.55
+1013;"nuborrow";2;1;"fixed";1.55
+1014;"nuborrow";3;1;"fixed";1.55
+1015;"nuborrow";4;1;"fixed";1.69
+1016;"nuborrow";5;1;"fixed";1.69
+1017;"nuborrow";1;2;"fixed";1.7
+1018;"nuborrow";2;2;"fixed";1.7
+1019;"nuborrow";3;2;"fixed";1.7
+1020;"nuborrow";4;2;"fixed";1.75
+1021;"nuborrow";5;2;"fixed";1.75
+1022;"nuborrow";3;1;"variable";1.55
+1023;"nuborrow";3;2;"variable";1.55
+1024;"nuborrow";5;1;"variable";1.55
+1025;"nuborrow";5;2;"variable";1.55
+1049;"Banyan Mortgage";5;1;"fixed";1.5
+1050;"Banyan Mortgage";5;2;"fixed";1.69
+1051;"Banyan Mortgage";5;1;"variable";1.25
+1052;"Banyan Mortgage";5;2;"variable";1.35
+1053;"ATB";5;2;"variable";1.65
+1054;"ATB";5;2;"fixed";1.99
+1055;"ATB";1;2;"fixed";2.49
+1056;"ATB";2;2;"fixed";2.49
+1057;"ATB";3;2;"fixed";2.24
+1058;"ATB";4;2;"fixed";2.24
+1080;"HSBC";2;1;"variable";1.24
+1081;"HSBC";2;2;"variable";1.24
+1098;"First Ontario";5;2;"variable";2.25
+1099;"First Ontario";1;2;"fixed";2.44
+1100;"First Ontario";2;2;"fixed";2.24
+1101;"First Ontario";3;2;"fixed";2.24
+1102;"First Ontario";4;2;"fixed";2.24
+1103;"First Ontario";5;2;"fixed";2.24
+1104;"First Ontario";7;2;"fixed";2.84
+1163;"Manulife";1;2;"fixed";2.99
+1164;"Manulife";2;2;"fixed";2.69
+1165;"Manulife";3;2;"fixed";2.49
+1166;"Manulife";4;2;"fixed";2.49
+1167;"Manulife";7;2;"fixed";4.54
+1168;"Manulife";10;2;"fixed";4.64
+1169;"MCAP";2;1;"fixed";1.54
+1170;"MCAP";3;1;"fixed";1.54
+1171;"MCAP";2;2;"fixed";1.94
+1172;"MCAP";3;2;"fixed";1.94
+1173;"MCAP";5;2;"variable";1.55
+1174;"MCAP";5;1;"variable";1.55
+1175;"MCAP";1;1;"fixed";1.84
+1176;"MCAP";4;1;"fixed";1.84
+1177;"MCAP";4;2;"fixed";2.04
+1178;"Westworth Financial";5;1;"fixed";1.84
+1179;"Westworth Financial";5;2;"fixed";1.93
+1180;"Westworth Financial";5;1;"variable";1.25
+1181;"Westworth Financial";5;2;"variable";1.4
+1182;"Westworth Financial";1;1;"fixed";1.89
+1183;"Westworth Financial";2;1;"fixed";1.58
+1184;"Westworth Financial";3;1;"fixed";1.58
+1185;"Westworth Financial";4;1;"fixed";1.79
+1186;"Westworth Financial";3;2;"fixed";2.14
+1187;"Westworth Financial";4;2;"fixed";1.94
+1188;"Westworth Financial";1;2;"fixed";2.24
+1189;"Westworth Financial";2;2;"fixed";2.19
+1190;"Westworth Financial";3;1;"variable";2.5
+1191;"motusbank";1;2;"fixed";3.09
+1192;"motusbank";2;2;"fixed";3.19
+1193;"motusbank";3;2;"fixed";3.49
+1194;"motusbank";4;2;"fixed";3.74
+1195;"motusbank";5;2;"fixed";4.59
+1196;"motusbank";5;1;"fixed";4.59
+1197;"motusbank";5;2;"variable";1.7
+1198;"motusbank";5;1;"variable";1.7
+1199;"Coast Capital";2;1;"variable";2.04
+1200;"Coast Capital";3;1;"variable";1.99
+1201;"Coast Capital";4;1;"variable";2.04
+1202;"Coast Capital";6;1;"variable";2.64
+1203;"Coast Capital";7;1;"variable";2.69
+1204;"Coast Capital";8;1;"variable";4.14
+1205;"Coast Capital";9;1;"variable";4.19
+1206;"Coast Capital";10;1;"variable";2.94
+1207;"First National";5;1;"variable";1.45
+1208;"First National";5;2;"variable";1.55
+1209;"ICICI";1;2;"fixed";3.19
+1210;"ICICI";2;2;"fixed";3.19
+1211;"ICICI";3;2;"fixed";3.94
+1212;"ICICI";4;2;"fixed";4.29
+1213;"ICICI";5;2;"fixed";5.14
+1214;"ICICI";5;1;"variable";2.5
+1215;"ICICI";1;1;"fixed";3.19
+1216;"ICICI";2;1;"fixed";3.19
+1217;"ICICI";3;1;"fixed";3.94
+1218;"ICICI";4;1;"fixed";4.29
+1219;"ICICI";5;1;"fixed";5.14
+1221;"motusbank";1;1;"fixed";3.09
+1222;"motusbank";2;1;"fixed";3.19
+1223;"motusbank";3;1;"fixed";3.49
+1224;"motusbank";4;1;"fixed";3.74
+1225;"Canada Life";1;1;"fixed";3.1
+1226;"Canada Life";2;1;"fixed";3.2
+1227;"Canada Life";7;1;"fixed";6.5
+1228;"Canada Life";10;1;"fixed";6.75
+1229;"First Ontario";5;1;"variable";2.25
+1230;"Investors Group";1;1;"fixed";3.1
+1231;"Investors Group";2;1;"fixed";3.2
+1232;"Investors Group";3;1;"fixed";3.65
+1233;"Investors Group";4;1;"fixed";4.24
+1234;"Investors Group";7;1;"fixed";6.5
+1235;"Investors Group";10;1;"fixed";6.75
+1236;"Meridian";1;1;"fixed";3.09
+1237;"Meridian";2;1;"fixed";2.19
+1238;"Meridian";3;1;"fixed";2.19
+1239;"Meridian";4;1;"fixed";3.89
+1240;"Meridian";7;1;"fixed";2.59
+1241;"Meridian";10;1;"fixed";2.74
+1242;"Canadian Western";1;1;"fixed";2.69
+1243;"Canadian Western";2;1;"fixed";2.79
+1244;"Canadian Western";3;1;"fixed";3.19
+1245;"Canadian Western";4;1;"fixed";3.59
+1246;"Canadian Western";5;1;"fixed";4.09
+1247;"Canadian Western";5;1;"variable";1.9
+1248;"ICICI";1;1;"fixed";3.19
+1249;"ICICI";2;1;"fixed";3.19
+1250;"ICICI";3;1;"fixed";3.94
+1251;"ICICI";4;1;"fixed";4.29
+1252;"ICICI";5;1;"fixed";5.14
+1254;"Manulife";2;1;"fixed";2.69
+1255;"Manulife";3;1;"fixed";2.49
+1256;"Manulife";4;1;"fixed";2.49
+1257;"Manulife";7;1;"fixed";4.54
+1258;"Manulife";10;1;"fixed";4.64
+1262;"Alterna Savings";5;1;"fixed";1.65
+1263;"Alterna Savings";1;1;"variable";6.35
+1264;"Alterna Savings";1;2;"variable";6.35
+1265;"ATB";5;1;"variable";1.65
+1266;"ATB";1;1;"fixed";2.49
+1267;"ATB";2;1;"fixed";2.49
+1274;"Metro Mortgage";3;1;"fixed";1.59
+1275;"Metro Mortgage";4;1;"fixed";1.84
+1276;"Metro Mortgage";5;1;"fixed";2.04
+1277;"Metro Mortgage";3;2;"fixed";2.14
+1278;"Metro Mortgage";4;2;"fixed";2.24
+1279;"Metro Mortgage";5;2;"fixed";2.19
+1280;"Metro Mortgage";3;1;"variable";2.45
+1281;"Metro Mortgage";3;2;"variable";2.45
+1282;"Metro Mortgage";5;1;"variable";1.45
+1283;"Metro Mortgage";5;2;"variable";1.45
