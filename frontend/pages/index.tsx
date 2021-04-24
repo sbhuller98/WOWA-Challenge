@@ -3,6 +3,8 @@ import HomeCalculator from 'src/HomeCalculator';
 import SampleInput from 'src/InputFields/SampleInput';
 import SampleSelectField from 'src/InputFields/SampleSelectField';
 import AsyncDataComponent from '../src/AsyncDataComponent';
+import LenderBar from '../src/LenderBar'
+import MortgageCalc from '../src/MortgageCalc'
 
 const Home = (): JSX.Element => {
   return (
@@ -33,6 +35,8 @@ const Home = (): JSX.Element => {
         </div>
         <HomeCalculator />
         <AsyncDataComponent />
+        <LenderBar />
+        <MortgageCalc />
       </main>
     </>
   );
