@@ -1,11 +1,16 @@
 const LenderBar = (): JSX.Element => {
   return (
-    <div className="inline-flex space-x-10 border-b-4">
-      <div className="flex underline text-base md:text-lg font-semibold">Lender</div>
-      <div className="flex underline text-base md:text-lg font-semibold">Rate</div>
-      <div className="flex underline text-base md:text-lg font-semibold">Weekly Change</div>
-      <div className="flex underline text-base md:text-lg font-semibold">Monthly Payment</div>
-    </div>
+    <div className="flex-auto inline-flex space-x-10 border-b-4 border-blue-300">
+        <div className="flex  text-base md:text-lg font-light">Lender</div>
+        <div className="flex text-base md:text-lg font-light">Rate</div>
+        <div className="flex text-base md:text-lg font-light">
+          Weekly Change
+        </div>
+        <div className="flex text-base md:text-lg font-light">
+          Monthly Payment
+        </div>
+      </div>
+    
   );
 };
 

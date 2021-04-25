@@ -2,6 +2,12 @@ const express = require('express')
 const app = express()
 const port = 3001
 
+var cors = require('cors')
+
+app.use(cors())
+
+
+
 // gets our helper functions from dbHelper folder
 const connectionToDB = require('./dbHelper/connect')
 const getQuery = require('./dbHelper/queryHelper')
@@ -25,6 +31,7 @@ app.get('/rates/:termLength/:mortgageType', async (req,res) => {
         console.log(error);
         res.send('Error, could not fetch data')
     });
+    res.header("Access-Control-Allow-Origin", "*");
     res.json({ results }); 
 })
 
