@@ -3,11 +3,11 @@
 The goal of this project is to introduce you to our tech stack. Our frontend uses React with Redux and TailwindCSS. Our backend uses Django with Django Rest Framework (DRF) and PostgreSQL.
 
 
-## Starting the projet:
+## Starting the project:
 
-The project is created with a Node.js backend connected to a mySQL server hosted locally. Please execute the given rates.sql file and it will create the tables and populate them with the data required. On some Macs, you may run into a permissions issue where you will have to enter the data using a differnt tool such as MySQL Workbench.
+The project is created with a Node.js backend connected to a MySQL server hosted locally. Please execute the given rates.sql file and it will create the tables and populate them with the data required. On some Macs, you may run into a permissions issue where you will have to enter the data using a differnt tool such as MySQL Workbench.
 
-After that, update your Database configuration in `/backend/dbHelper/connect.js`. Run the server.js file and the backend should be up and running. It is configured to automatically run on port 3001, and the frontend will automatically start on port 300 and know where to send its requests.
+After that, update your Database configuration in `/backend/dbHelper/connect.js`. Run the server.js file and the backend should be up and running. It is configured to automatically run on port 3001, and the frontend will automatically start on port 3000 and know where to send its requests.
 
 
 
