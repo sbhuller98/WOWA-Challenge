@@ -21,12 +21,13 @@ app.get('/rates/:termLength/:mortgageType', async (req,res) => {
     }   
     
     //we send query to our database via our query helper
-    const results = await getQuery(connectTODB, "SELECT * FROM MortRates WHERE rate_type = ? AND year = ?", [mortType, term]).catch((error) => {
+    const results = await getQuery(connectTODB, "SELECT * FROM (SELECT id, source, year, down_payment_level, rate_type, MIN(rate) as rate FROM (SELECT * FROM MortRates WHERE rate_type = ? AND year = ?) AS T1 GROUP BY source) AS T2 ORDER BY rate ASC", [mortType, term]).catch((error) => {
         console.log(error);
-        res.send('test')
+        res.send('Error, could not fetch data')
     });
     res.json({ results }); 
 })
 
+//"SELECT * FROM MortRates WHERE rate_type = ? AND year = ? ORDER BY rate ASC"
 
 app.listen(port, () => console.log('Now listening on port 3001'))

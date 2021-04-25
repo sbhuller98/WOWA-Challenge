@@ -1,3 +1,4 @@
+SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY','')); 
 CREATE DATABASE IF NOT EXISTS Rates;
 USE Rates;
 
@@ -10,9 +11,10 @@ CREATE TABLE MortRates(
     rate Real
 );
 
-LOAD DATA INFILE 'path to rates.csv file' 
+/* LOAD DATA INFILE 'path to rates.csv file' 
 INTO TABLE discounts 
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+*/
