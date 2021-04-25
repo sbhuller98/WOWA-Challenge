@@ -5,39 +5,81 @@ import IndividualRateDetail from './IndividualRateDetail';
 
 
 const MortgageCalc = (): JSX.Element => {
-    const [termVal, setTerm] = useState<number>(5);
-    const [typeVal, setType] = useState<string>('Fixed');
+    const [termVal, setTerm] = useState<number>(25);
+    const [typeVal, setType] = useState<string>('fixed');
     const [homePriceVal, setPrice] = useState<number>(500000);
     const [downPaymentVal, setDownPayment] = useState<number>(50000);
     const [mortgageAmount, setMortgageAmount] = useState<number>(450000);
     const [ammortizationVal, setAmmortization] = useState<number>(25);
     const [dataRecevied, setDataReceived] = useState<boolean>(false)
+    
   
     const [state, setState] = useState<any>(null);
+
+    const createRateValues = () => {
+      const count = Object.keys(state.results).length;
+      var i = 0
+      const resultsWithCalculations = {}
+      for (i = 0; i < count; i++) {
+        const monthlyInterest = (state.results[i].rate)/100/12
+        
+        const numberOfPayments = ammortizationVal*12
+        
+
+        const innerTerm = (1 + monthlyInterest)**numberOfPayments
+  
+
+        const mortgagePayment = Math.ceil(mortgageAmount*((monthlyInterest*innerTerm)/(innerTerm - 1)))
+        
+
+        const currResult = {
+          'key': state.results[i].id,
+          'source': state.results[i].source,
+          'rate':state.results[i].rate,
+          'payment': mortgagePayment,
+          'term': state.results[i].year,
+          'type': state.results[i].rate_type
+        }
+        resultsWithCalculations[i] =(currResult);
+      }
+      console.log(resultsWithCalculations)
+    }
+
+
     let btn;
     const pay = 1000
     const fetchData = async () => {
       const res = await axios.get(
-        'http://localhost:3001/rates/5/fixed'
+        'http://localhost:3001/rates/' + String(termVal) + '/' + typeVal
       );
       const data = res.data;
       console.log(data)
       setState(data)
       setDataReceived(true)
     };
+
     useEffect(() => {
       fetchData();
-    }, []);
+    }, [typeVal, termVal]);
+
+    useEffect(() => {
     if (dataRecevied) {
-      
+      if (typeof state.results[0] === 'undefined') {
+        btn=<p>There is no data to dispay.</p>
+        return
+      } else {
       console.log(state.results[0])
+      createRateValues()
+
       btn = <IndividualRateDetail 
         lender={state.results[0].source}
         rate={state.results[0].rate}
         payment={pay}
         />}
+      }
+    }, [state])
     
-   
+  
     
   
 
