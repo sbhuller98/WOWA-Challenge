@@ -20,7 +20,6 @@ const Home = (): JSX.Element => {
         <div className="float-left">
         <MortgageCalc />
         </div>
-        <IndividualRateDetail/>
       </main>
     </>
   );

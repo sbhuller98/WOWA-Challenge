@@ -6,6 +6,8 @@ interface Props {
     lender: string;
     rate: number;
     payment: number;
+    term: number;
+    type: string
   }
 const nameToImage = {
     'Alterna Savings': 'alterna-savings.png',
@@ -37,7 +39,7 @@ const nameToImage = {
     'Peoples Bank': 'peoples-bank.png',
     'RBC': 'rbc.png',
     'Scotiabank': 'scotiabank.png',
-    'Simplii FInancial': 'simplii.png',
+    'Simplii Financial': 'simplii.png',
     'Tangerine': 'tangerine.png',
     'TD':'td.png',
     'Westworth Financial': 'westworth.png'
@@ -45,11 +47,9 @@ const nameToImage = {
 
 
 
-const IndividualRateDetail = ( {lender, rate, payment} ): JSX.Element => {
-
-
-    
-      
+const IndividualRateDetail = ( {lender, rate, payment, term, type} ): JSX.Element => {
+    console.log(lender)
+    console.log('here')
     return(
         <div>
             <h3>'Test'</h3>
