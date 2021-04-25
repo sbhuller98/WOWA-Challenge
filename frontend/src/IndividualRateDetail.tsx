@@ -53,10 +53,11 @@ const nameToImage = {
 
 
 const IndividualRateDetail = ( {lender, rate, payment, term, type, correctType, correctTerm} ): JSX.Element => {
+    console.log(lender)
     console.log(nameToImage[lender])
      const imageSRC = "/logos/" + nameToImage[lender]
     return(
-        <div className="inline-flex space-x-14 border border-blue-300 p-3">
+        <div className="inline-flex space-x-14 border border-blue-300 p-3 max-w-xl">
             <Image src={imageSRC} width={500} height={500}/>
             <h3 className ="flex text-base md:text-lg font-light" >{lender}</h3>
             <h3 className ="flex text-base md:text-lg font-light" >{rate}</h3>

@@ -94,7 +94,7 @@ const MortgageCalc = (): JSX.Element => {
   }, [homePriceVal, downPaymentVal])
 
   return (
-    <div className='flex'>
+    <div className='grid grid-cols-1'>
       <div className="border-2 border-blue-300 p-3 shadow float-left">
         <h5>Term Length</h5>
         <NumberInput value={termVal} onChange={setTerm} />
@@ -108,9 +108,10 @@ const MortgageCalc = (): JSX.Element => {
         <NumberInput value={ammortizationVal} onChange={setAmmortization} />
         <SelectionInput value={typeVal} onChange={setType} />
       </div>
-      <div className='w-9/12'>
+      <div  className="float-right">
         <LenderBar />
-        <ShowRateDetails resultsArr={displayResults} correctTerm={termVal} correctType={typeVal}/>
+        <ShowRateDetails resultsArr={displayResults} 
+        correctTerm={termVal} correctType={typeVal}/>
       </div>
     </div>
   );
