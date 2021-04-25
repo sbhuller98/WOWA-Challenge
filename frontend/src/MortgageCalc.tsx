@@ -29,6 +29,7 @@ const MortgageCalc = (): JSX.Element => {
       fetchData();
     }, []);
     if (dataRecevied) {
+      
       console.log(state.results[0])
       btn = <IndividualRateDetail 
         lender={state.results[0].source}
