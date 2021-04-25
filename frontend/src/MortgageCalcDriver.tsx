@@ -98,7 +98,7 @@ const MortgageCalc = (): JSX.Element => {
       </div>
       <div className='w-9/12'>
         <LenderBar />
-        <ShowRateDetails resultsArr={displayResults} term={termVal} />
+        <ShowRateDetails resultsArr={displayResults} correctTerm={termVal} correctType={typeVal}/>
       </div>
     </div>
   );

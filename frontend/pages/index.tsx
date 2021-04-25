@@ -4,7 +4,7 @@ import SampleInput from 'src/InputFields/SampleInput';
 import SampleSelectField from 'src/InputFields/SampleSelectField';
 import AsyncDataComponent from '../src/AsyncDataComponent';
 import LenderBar from '../src/LenderBar';
-import MortgageCalc from '../src/MortgageCalc';
+import MortgageCalc from '../src/MortgageCalcDriver';
 import IndividualRateDetail from '../src/IndividualRateDetail'
 
 const Home = (): JSX.Element => {

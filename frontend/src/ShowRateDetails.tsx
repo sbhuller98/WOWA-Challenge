@@ -2,14 +2,17 @@ import IndividualRateDetail from './IndividualRateDetail'
 
 interface Props {
     reultsArr: any;
-    term: number;
+    correctTerm: number;
+    correctType: string
   }
 
-const ShowRateDetail = ( {resultsArr, term } ): JSX.Element => {
+const ShowRateDetail = ( {resultsArr, correctTerm, correctType } ): JSX.Element => {
     
     const count = Object.keys(resultsArr).length
-    console.log(term)
+    console.log(correctTerm)
     console.log(resultsArr)
+
+    const sourcesSeen = []
  
     console.log(count)
     const rateDetailPanels = []
@@ -17,11 +20,11 @@ const ShowRateDetail = ( {resultsArr, term } ): JSX.Element => {
         return (<h1>
             No reuslts were found for your parameters.
         </h1>)
-    } else if (term > 25 || term < 1) {
+    } else if (correctTerm > 25 || correctTerm < 1) {
         return (<h1>
             No reuslts were found for your parameters.
         </h1>)
-    } else if (count === 1 && term != resultsArr[0].term) {
+    } else if (count === 1 && correctTerm != resultsArr[0].term) {
         return (<h1>
             No reuslts were found for your parameters.
         </h1>)
@@ -32,18 +35,26 @@ const ShowRateDetail = ( {resultsArr, term } ): JSX.Element => {
             payment={resultsArr.payment}
             term={resultsArr.term}
             type={resultsArr.type}
+            correctType={correctType}
+            correctTerm = {correctTerm}
             /></div>)
       
     } else {
         var i;
+        
         for (i = 0; i < count; i++){
-            rateDetailPanels.push(<div><IndividualRateDetail
+            if (correctTerm === resultsArr[i].term && correctType === resultsArr[i].type && sourcesSeen.includes(resultsArr[i].source) === false) {
+                rateDetailPanels.push(<div><IndividualRateDetail
                 lender= {resultsArr[i].source}
                 rate={resultsArr[i].rate}
                 payment={resultsArr[i].payment}
                 term={resultsArr[i].term}
                 type={resultsArr[i].type}
+                correctType={correctType}
+                correctTerm = {correctTerm}
                 /></div>)
+                sourcesSeen.push(resultsArr[i].source)
+            }
         }
     }
     

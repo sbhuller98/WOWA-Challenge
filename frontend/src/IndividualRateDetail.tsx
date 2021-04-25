@@ -7,7 +7,9 @@ interface Props {
     rate: number;
     payment: number;
     term: number;
-    type: string
+    type: string;
+    correctType: string;
+    correctTerm: number;
   }
 const nameToImage = {
     'Alterna Savings': 'alterna-savings.png',
@@ -47,10 +49,10 @@ const nameToImage = {
 
 
 
-const IndividualRateDetail = ( {lender, rate, payment, term, type} ): JSX.Element => {
-
+const IndividualRateDetail = ( {lender, rate, payment, term, type, correctType, correctTerm} ): JSX.Element => {
+    
     return(
-        <div className="inline-flex space-x-10 border border-blue-300">
+        <div className="inline-flex space-x-14 border border-blue-300 p-3">
             <h3 className ="flex text-base md:text-lg font-light" >{lender}</h3>
             <h3 className ="flex text-base md:text-lg font-light" >{rate}</h3>
             <h3 className ="flex text-base md:text-lg font-light" >{payment}</h3>
