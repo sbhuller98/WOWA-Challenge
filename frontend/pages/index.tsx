@@ -14,9 +14,7 @@ const Home = (): JSX.Element => {
         <title>WOWA Challenge</title>
       </Head>
       <main className="w-full container">
-        <div>
-          
-        </div>
+       
         <div>
         <MortgageCalc />
         </div>

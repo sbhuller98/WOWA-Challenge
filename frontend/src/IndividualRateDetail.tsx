@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import axios from 'axios'
 import { stringify } from 'node:querystring';
 
@@ -11,6 +11,8 @@ interface Props {
     correctType: string;
     correctTerm: number;
   }
+
+  //maps company name to image file
 const nameToImage = {
     'Alterna Savings': 'alterna-savings.png',
     'ATB': 'atb-financial.png',

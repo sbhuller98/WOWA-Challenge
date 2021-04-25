@@ -21,6 +21,7 @@ const MortgageCalc = (): JSX.Element => {
     term: 25,
   });
 
+  //calculates and updates the payment values
   const resultsWithCalculations = {};
   const createRateValues = () => {
     const count = Object.keys(state.results).length;
@@ -29,6 +30,7 @@ const MortgageCalc = (): JSX.Element => {
     }
     var i = 0;
 
+    //loops over the data and calculates mortgage payments and saves it to JSON
     for (i = 0; i < count; i++) {
       const monthlyInterest = state.results[i].rate / 100 / 12;
       const numberOfPayments = ammortizationVal * 12;
@@ -36,7 +38,8 @@ const MortgageCalc = (): JSX.Element => {
       const mortgagePayment = Math.ceil(
         mortgageAmount * ((monthlyInterest * innerTerm) / (innerTerm - 1))
       );
-
+      
+      //creates new object with the relevant data and mortgage payment
       const currResult = {
         key: state.results[i].id,
         source: state.results[i].source,
@@ -50,6 +53,7 @@ const MortgageCalc = (): JSX.Element => {
     setDisplayResults(resultsWithCalculations);
   };
 
+  //fetches data from backend
   let btn;
   const pay = 1000;
   const fetchData = async () => {
@@ -61,14 +65,21 @@ const MortgageCalc = (): JSX.Element => {
     setState(data);
   };
 
+  //Refetches data when amoortiation term or type of mortgage is changed, this does not need to occur since the filtering was mvoed from the backend to the frontend
+  //useEffect(() => {
+  //  fetchData();
+  //}, [typeVal, termVal]);
+
+  //new method to fetch data after filtering was mvoed to the front
   useEffect(() => {
     fetchData();
-  }, [typeVal, termVal]);
+  }, []);
 
+  //ensures we have fetched data and calls fucntion to caluclate monthly payment
   useEffect(() => {
     if (state === null || typeof state.results == 'undefined') {
-      btn = <p>There is no data to dispay.</p>;
-      return;
+      console.log('Error, there is no data')
+      return null;
     } else {
       const newHomePrice = downPaymentVal + mortgageAmount
       setPrice(newHomePrice)
@@ -76,6 +87,7 @@ const MortgageCalc = (): JSX.Element => {
     }
   }, [state,mortgageAmount, ammortizationVal]);
 
+  //ensures home price, mortgage amount, and down payment remain in sync
   useEffect(() => {
     const amountMortgaged = homePriceVal - downPaymentVal
     setMortgageAmount(amountMortgaged)

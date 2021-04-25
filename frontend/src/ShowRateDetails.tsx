@@ -9,12 +9,10 @@ interface Props {
 const ShowRateDetail = ( {resultsArr, correctTerm, correctType } ): JSX.Element => {
     
     const count = Object.keys(resultsArr).length
-    console.log(correctTerm)
-    console.log(resultsArr)
 
     const sourcesSeen = []
- 
-    console.log(count)
+
+    //first checks for errors in data, then renders data via Indidividual rate detail
     const rateDetailPanels = []
     if (typeof resultsArr[0] === 'undefined') {
         return (<h1>
@@ -44,7 +42,7 @@ const ShowRateDetail = ( {resultsArr, correctTerm, correctType } ): JSX.Element 
         
         for (i = 0; i < count; i++){
             if (correctTerm === resultsArr[i].term && correctType === resultsArr[i].type && sourcesSeen.includes(resultsArr[i].source) === false) {
-                rateDetailPanels.push(<div><IndividualRateDetail
+                rateDetailPanels.push(<div  key={resultsArr[i].id}><IndividualRateDetail
                 lender= {resultsArr[i].source}
                 rate={resultsArr[i].rate}
                 payment={resultsArr[i].payment}
