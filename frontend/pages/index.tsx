@@ -14,10 +14,10 @@ const Home = (): JSX.Element => {
         <title>WOWA Challenge</title>
       </Head>
       <main className="w-full container">
-        <div className="float-right">
-          <LenderBar />
+        <div>
+          
         </div>
-        <div className="float-left">
+        <div>
         <MortgageCalc />
         </div>
       </main>

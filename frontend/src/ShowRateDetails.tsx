@@ -17,8 +17,11 @@ const ShowRateDetail = ( {resultsArr, term } ): JSX.Element => {
         return (<h1>
             No reuslts were found for your parameters.
         </h1>)
-    }
-    else if (count === 1 && term != resultsArr[0].term) {
+    } else if (term > 25 || term < 1) {
+        return (<h1>
+            No reuslts were found for your parameters.
+        </h1>)
+    } else if (count === 1 && term != resultsArr[0].term) {
         return (<h1>
             No reuslts were found for your parameters.
         </h1>)

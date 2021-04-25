@@ -48,16 +48,14 @@ const nameToImage = {
 
 
 const IndividualRateDetail = ( {lender, rate, payment, term, type} ): JSX.Element => {
-    console.log(lender)
-    console.log('here')
+
     return(
-        <div>
-            <h3>'Test'</h3>
-            
-            <h3>{lender}</h3>
-        
-            <h3>{rate}</h3>
-            <h3>{payment}</h3>
+        <div className="inline-flex space-x-10 border border-blue-300">
+            <h3 className ="flex text-base md:text-lg font-light" >{lender}</h3>
+            <h3 className ="flex text-base md:text-lg font-light" >{rate}</h3>
+            <h3 className ="flex text-base md:text-lg font-light" >{payment}</h3>
+            <h3 className ="flex text-base md:text-lg font-light" >{term}</h3>
+            <h3 className ="flex text-base md:text-lg font-light" >{type}</h3>
         </div>
     )
     }
