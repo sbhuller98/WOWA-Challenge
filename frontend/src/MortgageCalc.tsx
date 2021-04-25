@@ -70,9 +70,16 @@ const MortgageCalc = (): JSX.Element => {
       btn = <p>There is no data to dispay.</p>;
       return;
     } else {
+      const newHomePrice = downPaymentVal + mortgageAmount
+      setPrice(newHomePrice)
       createRateValues();
     }
-  }, [state]);
+  }, [state,mortgageAmount, ammortizationVal]);
+
+  useEffect(() => {
+    const amountMortgaged = homePriceVal - downPaymentVal
+    setMortgageAmount(amountMortgaged)
+  }, [homePriceVal, downPaymentVal])
 
   return (
     <div className='flex'>
