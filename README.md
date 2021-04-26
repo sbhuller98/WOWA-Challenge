@@ -8,6 +8,11 @@ The project is created with a Node.js backend connected to a MySQL server hosted
 
 After that, update your Database configuration in `/backend/dbHelper/connect.js`. Run the server.js file and the backend should be up and running. It is configured to automatically run on port 3001, and the frontend will automatically start on port 3000 and know where to send its requests once it is started up.
 
+## Things I would do differently:
+
+I spent too much time on backend. Didn't really need anything but a basic server. My understanding of types in TypeScript needs to be better and I should have planned how to structure the components better. Since data flow is unidirectional in React, I could have taken advantage of pages more to seperate the components. Currently, the data flow is really tied up between them which made it hard to move them around.
+
+
 ## Task: Create a mortgage rates table and simple calculator
 
 You will need to create and design a full-stack application that shows Canada mortgage rates and allows you to calculate your mortgage payments, essentially recreating the bottom of https://wowa.ca/mortgage-rates-ontario
