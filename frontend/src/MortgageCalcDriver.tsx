@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
 import NumberInput from './InputFields/NumberInput';
 import axios from 'axios';
-import ShowRateDetails from './ShowRateDetails'; 
-import LenderBar from './LenderBar'
-import SelectionInput from './InputFields/SelectionInput'
+import ShowRateDetails from './ShowRateDetails';
+import LenderBar from './LenderBar';
+import SelectionInput from './InputFields/SelectionInput';
 
 const MortgageCalc = (): JSX.Element => {
   const [termVal, setTerm] = useState<number>(25);
@@ -38,7 +38,7 @@ const MortgageCalc = (): JSX.Element => {
       const mortgagePayment = Math.ceil(
         mortgageAmount * ((monthlyInterest * innerTerm) / (innerTerm - 1))
       );
-      
+
       //creates new object with the relevant data and mortgage payment
       const currResult = {
         key: state.results[i].id,
@@ -78,23 +78,23 @@ const MortgageCalc = (): JSX.Element => {
   //ensures we have fetched data and calls fucntion to caluclate monthly payment
   useEffect(() => {
     if (state === null || typeof state.results == 'undefined') {
-      console.log('Error, there is no data')
+      console.log('Error, there is no data');
       return null;
     } else {
-      const newHomePrice = downPaymentVal + mortgageAmount
-      setPrice(newHomePrice)
+      const newHomePrice = downPaymentVal + mortgageAmount;
+      setPrice(newHomePrice);
       createRateValues();
     }
-  }, [state,mortgageAmount, ammortizationVal]);
+  }, [state, mortgageAmount, ammortizationVal]);
 
   //ensures home price, mortgage amount, and down payment remain in sync
   useEffect(() => {
-    const amountMortgaged = homePriceVal - downPaymentVal
-    setMortgageAmount(amountMortgaged)
-  }, [homePriceVal, downPaymentVal])
+    const amountMortgaged = homePriceVal - downPaymentVal;
+    setMortgageAmount(amountMortgaged);
+  }, [homePriceVal, downPaymentVal]);
 
   return (
-    <div className='grid grid-cols-1'>
+    <div className="grid grid-cols-1">
       <div className="border-2 border-blue-300 p-3 shadow float-left">
         <h5>Term Length</h5>
         <NumberInput value={termVal} onChange={setTerm} />
@@ -108,10 +108,13 @@ const MortgageCalc = (): JSX.Element => {
         <NumberInput value={ammortizationVal} onChange={setAmmortization} />
         <SelectionInput value={typeVal} onChange={setType} />
       </div>
-      <div  className="float-right">
+      <div className="float-right">
         <LenderBar />
-        <ShowRateDetails resultsArr={displayResults} 
-        correctTerm={termVal} correctType={typeVal}/>
+        <ShowRateDetails
+          resultsArr={displayResults}
+          correctTerm={termVal}
+          correctType={typeVal}
+        />
       </div>
     </div>
   );

@@ -15,7 +15,3 @@ const SampleInput = (): JSX.Element => {
 };
 
 export default SampleInput;
-
-
-
-
