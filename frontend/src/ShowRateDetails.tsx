@@ -32,14 +32,13 @@ const ShowRateDetail = ({
           payment={resultsArr.payment}
           term={resultsArr.term}
           type={resultsArr.type}
-          correctType={correctType}
-          correctTerm={correctTerm}
+
         />
       </div>
     );
   } else {
     var i;
-
+    // iterates over our object if we have multiple banks in our response
     for (i = 0; i < count; i++) {
       if (
         correctTerm === resultsArr[i].term &&
@@ -54,8 +53,7 @@ const ShowRateDetail = ({
               payment={resultsArr[i].payment}
               term={resultsArr[i].term}
               type={resultsArr[i].type}
-              correctType={correctType}
-              correctTerm={correctTerm}
+    
             />
           </div>
         );

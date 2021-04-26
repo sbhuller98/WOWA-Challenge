@@ -3,6 +3,7 @@ interface Props {
   onChange: (number) => void;
 }
 
+//Controlled number input with some styling
 const NumberInput = ({ value, onChange }: Props): JSX.Element => {
   return (
     <input

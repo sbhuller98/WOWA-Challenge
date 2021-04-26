@@ -1,3 +1,4 @@
+//simple top bar that helps organize the data underneath
 const LenderBar = (): JSX.Element => {
   return (
     <div className="flex">

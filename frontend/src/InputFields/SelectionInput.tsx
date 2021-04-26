@@ -3,6 +3,7 @@ interface Props {
   onChange: (string) => void;
 }
 
+//Controlled selector input with some styling, used only for mortgage type
 const SelectionInput = ({ value, onChange }: Props): JSX.Element => {
   const options = ['fixed', 'variable'];
   const optionsRendered = options.map((item) => (

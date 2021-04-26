@@ -8,11 +8,9 @@ interface Props {
   payment: number;
   term: number;
   type: string;
-  correctType: string;
-  correctTerm: number;
 }
 
-//maps company name to image file
+//maps company name to image file, some strings removed by Prettier but did not affect functionality
 const nameToImage = {
   'Alterna Savings': 'alterna-savings.png',
   ATB: 'atb-financial.png',
@@ -55,11 +53,8 @@ const IndividualRateDetail = ({
   rate,
   payment,
   term,
-  type,
-  correctType,
-  correctTerm,
+  type
 }): JSX.Element => {
-
   const imageSRC = '/logos/' + nameToImage[lender];
   return (
     <div className="inline-flex space-x-14 border border-blue-300 p-3 max-w-xl">
